@@ -10,6 +10,7 @@ coverage
 jest.config.js
 prettier.config.js
 report.*.json
+scripts
 src
 tsconfig.*.json
 tsconfig.json
