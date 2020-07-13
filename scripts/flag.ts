@@ -47,7 +47,9 @@ export enum Status {
     if (!item) return;
 
     if (countryCallingCodes && countryCallingCodes.length)
-      item.callingCodes = countryCallingCodes;
+      item.callingCodes = countryCallingCodes.map((x) =>
+        x.replace(/\D+/g, ' ').trim()
+      );
 
     if (currencies && currencies.length) item.currencies = currencies;
 

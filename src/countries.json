@@ -3,7 +3,7 @@
     "alpha2": "AD",
     "alpha3": "AND",
     "callingCodes": [
-      "+376"
+      "376"
     ],
     "currencies": [
       "EUR"
@@ -24,7 +24,7 @@
     "alpha2": "AE",
     "alpha3": "ARE",
     "callingCodes": [
-      "+971"
+      "971"
     ],
     "currencies": [
       "AED"
@@ -45,7 +45,7 @@
     "alpha2": "AF",
     "alpha3": "AFG",
     "callingCodes": [
-      "+93"
+      "93"
     ],
     "currencies": [
       "AFN"
@@ -70,7 +70,7 @@
     "alpha2": "AG",
     "alpha3": "ATG",
     "callingCodes": [
-      "+1 268"
+      "1 268"
     ],
     "currencies": [
       "XCD"
@@ -91,7 +91,7 @@
     "alpha2": "AI",
     "alpha3": "AIA",
     "callingCodes": [
-      "+1 264"
+      "1 264"
     ],
     "currencies": [
       "XCD"
@@ -110,7 +110,7 @@
     "alpha2": "AL",
     "alpha3": "ALB",
     "callingCodes": [
-      "+355"
+      "355"
     ],
     "currencies": [
       "ALL"
@@ -131,7 +131,7 @@
     "alpha2": "AM",
     "alpha3": "ARM",
     "callingCodes": [
-      "+374"
+      "374"
     ],
     "currencies": [
       "AMD"
@@ -152,7 +152,7 @@
     "alpha2": "AO",
     "alpha3": "AGO",
     "callingCodes": [
-      "+244"
+      "244"
     ],
     "currencies": [
       "AOA"
@@ -174,7 +174,7 @@
     "alpha2": "AQ",
     "alpha3": "ATA",
     "callingCodes": [
-      "+672"
+      "672"
     ],
     "emoji": "🇦🇶",
     "numeric": "010",
@@ -184,7 +184,7 @@
     "alpha2": "AR",
     "alpha3": "ARG",
     "callingCodes": [
-      "+54"
+      "54"
     ],
     "currencies": [
       "ARS"
@@ -205,7 +205,7 @@
     "alpha2": "AS",
     "alpha3": "ASM",
     "callingCodes": [
-      "+1 684"
+      "1 684"
     ],
     "currencies": [
       "USD"
@@ -226,7 +226,7 @@
     "alpha2": "AT",
     "alpha3": "AUT",
     "callingCodes": [
-      "+43"
+      "43"
     ],
     "currencies": [
       "EUR"
@@ -247,7 +247,7 @@
     "alpha2": "AU",
     "alpha3": "AUS",
     "callingCodes": [
-      "+61"
+      "61"
     ],
     "currencies": [
       "AUD"
@@ -268,7 +268,7 @@
     "alpha2": "AW",
     "alpha3": "ABW",
     "callingCodes": [
-      "+297"
+      "297"
     ],
     "currencies": [
       "AWG"
@@ -292,7 +292,7 @@
     "alpha2": "AX",
     "alpha3": "ALA",
     "callingCodes": [
-      "+358"
+      "358"
     ],
     "currencies": [
       "EUR"
@@ -311,7 +311,7 @@
     "alpha2": "AZ",
     "alpha3": "AZE",
     "callingCodes": [
-      "+994"
+      "994"
     ],
     "currencies": [
       "AZN"
@@ -332,7 +332,7 @@
     "alpha2": "BA",
     "alpha3": "BIH",
     "callingCodes": [
-      "+387"
+      "387"
     ],
     "currencies": [
       "BAM"
@@ -361,7 +361,7 @@
     "alpha2": "BB",
     "alpha3": "BRB",
     "callingCodes": [
-      "+1 246"
+      "1 246"
     ],
     "currencies": [
       "BBD"
@@ -381,7 +381,7 @@
     "alpha2": "BD",
     "alpha3": "BGD",
     "callingCodes": [
-      "+880"
+      "880"
     ],
     "currencies": [
       "BDT"
@@ -402,7 +402,7 @@
     "alpha2": "BE",
     "alpha3": "BEL",
     "callingCodes": [
-      "+32"
+      "32"
     ],
     "currencies": [
       "EUR"
@@ -431,7 +431,7 @@
     "alpha2": "BF",
     "alpha3": "BFA",
     "callingCodes": [
-      "+226"
+      "226"
     ],
     "currencies": [
       "XOF"
@@ -451,7 +451,7 @@
     "alpha2": "BG",
     "alpha3": "BGR",
     "callingCodes": [
-      "+359"
+      "359"
     ],
     "currencies": [
       "BGN"
@@ -472,7 +472,7 @@
     "alpha2": "BH",
     "alpha3": "BHR",
     "callingCodes": [
-      "+973"
+      "973"
     ],
     "currencies": [
       "BHD"
@@ -493,7 +493,7 @@
     "alpha2": "BI",
     "alpha3": "BDI",
     "callingCodes": [
-      "+257"
+      "257"
     ],
     "currencies": [
       "BIF"
@@ -518,7 +518,7 @@
     "alpha2": "BJ",
     "alpha3": "BEN",
     "callingCodes": [
-      "+229"
+      "229"
     ],
     "currencies": [
       "XOF"
@@ -539,7 +539,7 @@
     "alpha2": "BL",
     "alpha3": "BLM",
     "callingCodes": [
-      "+590"
+      "590"
     ],
     "currencies": [
       "EUR"
@@ -558,7 +558,7 @@
     "alpha2": "BM",
     "alpha3": "BMU",
     "callingCodes": [
-      "+1 441"
+      "1 441"
     ],
     "currencies": [
       "BMD"
@@ -578,7 +578,7 @@
     "alpha2": "BN",
     "alpha3": "BRN",
     "callingCodes": [
-      "+673"
+      "673"
     ],
     "currencies": [
       "BND"
@@ -602,7 +602,7 @@
     "alpha2": "BO",
     "alpha3": "BOL",
     "callingCodes": [
-      "+591"
+      "591"
     ],
     "currencies": [
       "BOB",
@@ -624,7 +624,7 @@
     "alpha2": "BQ",
     "alpha3": "BES",
     "callingCodes": [
-      "+599"
+      "599"
     ],
     "currencies": [
       "USD"
@@ -652,7 +652,7 @@
     "alpha2": "BR",
     "alpha3": "BRA",
     "callingCodes": [
-      "+55"
+      "55"
     ],
     "currencies": [
       "BRL"
@@ -674,7 +674,7 @@
     "alpha2": "BS",
     "alpha3": "BHS",
     "callingCodes": [
-      "+1 242"
+      "1 242"
     ],
     "currencies": [
       "BSD"
@@ -695,7 +695,7 @@
     "alpha2": "BT",
     "alpha3": "BTN",
     "callingCodes": [
-      "+975"
+      "975"
     ],
     "currencies": [
       "INR",
@@ -737,7 +737,7 @@
     "alpha2": "BW",
     "alpha3": "BWA",
     "callingCodes": [
-      "+267"
+      "267"
     ],
     "currencies": [
       "BWP"
@@ -758,7 +758,7 @@
     "alpha2": "BY",
     "alpha3": "BLR",
     "callingCodes": [
-      "+375"
+      "375"
     ],
     "currencies": [
       "BYN"
@@ -783,7 +783,7 @@
     "alpha2": "BZ",
     "alpha3": "BLZ",
     "callingCodes": [
-      "+501"
+      "501"
     ],
     "currencies": [
       "BZD"
@@ -803,7 +803,7 @@
     "alpha2": "CA",
     "alpha3": "CAN",
     "callingCodes": [
-      "+1"
+      "1"
     ],
     "currencies": [
       "CAD"
@@ -827,7 +827,7 @@
     "alpha2": "CC",
     "alpha3": "CCK",
     "callingCodes": [
-      "+61"
+      "61"
     ],
     "currencies": [
       "AUD"
@@ -846,7 +846,7 @@
     "alpha2": "CD",
     "alpha3": "COD",
     "callingCodes": [
-      "+243"
+      "243"
     ],
     "currencies": [
       "CDF"
@@ -867,7 +867,7 @@
     "alpha2": "CF",
     "alpha3": "CAF",
     "callingCodes": [
-      "+236"
+      "236"
     ],
     "currencies": [
       "XAF"
@@ -892,7 +892,7 @@
     "alpha2": "CG",
     "alpha3": "COG",
     "callingCodes": [
-      "+242"
+      "242"
     ],
     "currencies": [
       "XAF"
@@ -913,7 +913,7 @@
     "alpha2": "CH",
     "alpha3": "CHE",
     "callingCodes": [
-      "+41"
+      "41"
     ],
     "currencies": [
       "CHF",
@@ -948,7 +948,7 @@
     "alpha2": "CI",
     "alpha3": "CIV",
     "callingCodes": [
-      "+225"
+      "225"
     ],
     "currencies": [
       "XOF"
@@ -969,7 +969,7 @@
     "alpha2": "CK",
     "alpha3": "COK",
     "callingCodes": [
-      "+682"
+      "682"
     ],
     "currencies": [
       "NZD"
@@ -990,7 +990,7 @@
     "alpha2": "CL",
     "alpha3": "CHL",
     "callingCodes": [
-      "+56"
+      "56"
     ],
     "currencies": [
       "CLP",
@@ -1013,7 +1013,7 @@
     "alpha2": "CM",
     "alpha3": "CMR",
     "callingCodes": [
-      "+237"
+      "237"
     ],
     "currencies": [
       "XAF"
@@ -1038,7 +1038,7 @@
     "alpha2": "CN",
     "alpha3": "CHN",
     "callingCodes": [
-      "+86"
+      "86"
     ],
     "currencies": [
       "CNY"
@@ -1059,7 +1059,7 @@
     "alpha2": "CO",
     "alpha3": "COL",
     "callingCodes": [
-      "+57"
+      "57"
     ],
     "currencies": [
       "COP",
@@ -1082,7 +1082,7 @@
     "alpha2": "CR",
     "alpha3": "CRI",
     "callingCodes": [
-      "+506"
+      "506"
     ],
     "currencies": [
       "CRC"
@@ -1104,7 +1104,7 @@
     "alpha2": "CU",
     "alpha3": "CUB",
     "callingCodes": [
-      "+53"
+      "53"
     ],
     "currencies": [
       "CUP",
@@ -1126,7 +1126,7 @@
     "alpha2": "CV",
     "alpha3": "CPV",
     "callingCodes": [
-      "+238"
+      "238"
     ],
     "currencies": [
       "CVE"
@@ -1148,7 +1148,7 @@
     "alpha2": "CW",
     "alpha3": "CUW",
     "callingCodes": [
-      "+599"
+      "599"
     ],
     "currencies": [
       "ANG"
@@ -1175,7 +1175,7 @@
     "alpha2": "CX",
     "alpha3": "CXR",
     "callingCodes": [
-      "+61"
+      "61"
     ],
     "currencies": [
       "AUD"
@@ -1194,7 +1194,7 @@
     "alpha2": "CY",
     "alpha3": "CYP",
     "callingCodes": [
-      "+357"
+      "357"
     ],
     "currencies": [
       "EUR"
@@ -1219,7 +1219,7 @@
     "alpha2": "CZ",
     "alpha3": "CZE",
     "callingCodes": [
-      "+420"
+      "420"
     ],
     "currencies": [
       "CZK"
@@ -1240,7 +1240,7 @@
     "alpha2": "DE",
     "alpha3": "DEU",
     "callingCodes": [
-      "+49"
+      "49"
     ],
     "currencies": [
       "EUR"
@@ -1261,7 +1261,7 @@
     "alpha2": "DJ",
     "alpha3": "DJI",
     "callingCodes": [
-      "+253"
+      "253"
     ],
     "currencies": [
       "DJF"
@@ -1286,7 +1286,7 @@
     "alpha2": "DK",
     "alpha3": "DNK",
     "callingCodes": [
-      "+45"
+      "45"
     ],
     "currencies": [
       "DKK"
@@ -1307,7 +1307,7 @@
     "alpha2": "DM",
     "alpha3": "DMA",
     "callingCodes": [
-      "+1 767"
+      "1 767"
     ],
     "currencies": [
       "XCD"
@@ -1328,9 +1328,9 @@
     "alpha2": "DO",
     "alpha3": "DOM",
     "callingCodes": [
-      "+1 809",
-      "+1 829",
-      "+1 849"
+      "1 809",
+      "1 829",
+      "1 849"
     ],
     "currencies": [
       "DOP"
@@ -1351,7 +1351,7 @@
     "alpha2": "DZ",
     "alpha3": "DZA",
     "callingCodes": [
-      "+213"
+      "213"
     ],
     "currencies": [
       "DZD"
@@ -1372,7 +1372,7 @@
     "alpha2": "EC",
     "alpha3": "ECU",
     "callingCodes": [
-      "+593"
+      "593"
     ],
     "currencies": [
       "USD"
@@ -1394,7 +1394,7 @@
     "alpha2": "EE",
     "alpha3": "EST",
     "callingCodes": [
-      "+372"
+      "372"
     ],
     "currencies": [
       "EUR"
@@ -1415,7 +1415,7 @@
     "alpha2": "EG",
     "alpha3": "EGY",
     "callingCodes": [
-      "+20"
+      "20"
     ],
     "currencies": [
       "EGP"
@@ -1436,7 +1436,7 @@
     "alpha2": "EH",
     "alpha3": "ESH",
     "callingCodes": [
-      "+212"
+      "212"
     ],
     "currencies": [
       "MAD"
@@ -1455,7 +1455,7 @@
     "alpha2": "ER",
     "alpha3": "ERI",
     "callingCodes": [
-      "+291"
+      "291"
     ],
     "currencies": [
       "ERN"
@@ -1484,7 +1484,7 @@
     "alpha2": "ES",
     "alpha3": "ESP",
     "callingCodes": [
-      "+34"
+      "34"
     ],
     "currencies": [
       "EUR"
@@ -1505,7 +1505,7 @@
     "alpha2": "ET",
     "alpha3": "ETH",
     "callingCodes": [
-      "+251"
+      "251"
     ],
     "currencies": [
       "ETB"
@@ -1526,7 +1526,7 @@
     "alpha2": "FI",
     "alpha3": "FIN",
     "callingCodes": [
-      "+358"
+      "358"
     ],
     "currencies": [
       "EUR"
@@ -1552,7 +1552,7 @@
     "alpha2": "FJ",
     "alpha3": "FJI",
     "callingCodes": [
-      "+679"
+      "679"
     ],
     "currencies": [
       "FJD"
@@ -1578,7 +1578,7 @@
     "alpha2": "FK",
     "alpha3": "FLK",
     "callingCodes": [
-      "+500"
+      "500"
     ],
     "currencies": [
       "FKP"
@@ -1597,7 +1597,7 @@
     "alpha2": "FM",
     "alpha3": "FSM",
     "callingCodes": [
-      "+691"
+      "691"
     ],
     "currencies": [
       "USD"
@@ -1619,7 +1619,7 @@
     "alpha2": "FO",
     "alpha3": "FRO",
     "callingCodes": [
-      "+298"
+      "298"
     ],
     "currencies": [
       "DKK"
@@ -1643,7 +1643,7 @@
     "alpha2": "FR",
     "alpha3": "FRA",
     "callingCodes": [
-      "+33"
+      "33"
     ],
     "currencies": [
       "EUR"
@@ -1664,7 +1664,7 @@
     "alpha2": "GA",
     "alpha3": "GAB",
     "callingCodes": [
-      "+241"
+      "241"
     ],
     "currencies": [
       "XAF"
@@ -1685,7 +1685,7 @@
     "alpha2": "GB",
     "alpha3": "GBR",
     "callingCodes": [
-      "+44"
+      "44"
     ],
     "currencies": [
       "GBP"
@@ -1706,7 +1706,7 @@
     "alpha2": "GD",
     "alpha3": "GRD",
     "callingCodes": [
-      "+473"
+      "473"
     ],
     "currencies": [
       "XCD"
@@ -1727,7 +1727,7 @@
     "alpha2": "GE",
     "alpha3": "GEO",
     "callingCodes": [
-      "+995"
+      "995"
     ],
     "currencies": [
       "GEL"
@@ -1747,7 +1747,7 @@
     "alpha2": "GF",
     "alpha3": "GUF",
     "callingCodes": [
-      "+594"
+      "594"
     ],
     "currencies": [
       "EUR"
@@ -1766,7 +1766,7 @@
     "alpha2": "GG",
     "alpha3": "GGY",
     "callingCodes": [
-      "+44"
+      "44"
     ],
     "currencies": [
       "GBP"
@@ -1791,7 +1791,7 @@
     "alpha2": "GH",
     "alpha3": "GHA",
     "callingCodes": [
-      "+233"
+      "233"
     ],
     "currencies": [
       "GHS"
@@ -1812,7 +1812,7 @@
     "alpha2": "GI",
     "alpha3": "GIB",
     "callingCodes": [
-      "+350"
+      "350"
     ],
     "currencies": [
       "GIP"
@@ -1831,7 +1831,7 @@
     "alpha2": "GL",
     "alpha3": "GRL",
     "callingCodes": [
-      "+299"
+      "299"
     ],
     "currencies": [
       "DKK"
@@ -1854,7 +1854,7 @@
     "alpha2": "GM",
     "alpha3": "GMB",
     "callingCodes": [
-      "+220"
+      "220"
     ],
     "currencies": [
       "GMD"
@@ -1875,7 +1875,7 @@
     "alpha2": "GN",
     "alpha3": "GIN",
     "callingCodes": [
-      "+224"
+      "224"
     ],
     "currencies": [
       "GNF"
@@ -1896,7 +1896,7 @@
     "alpha2": "GP",
     "alpha3": "GLP",
     "callingCodes": [
-      "+590"
+      "590"
     ],
     "currencies": [
       "EUR"
@@ -1916,7 +1916,7 @@
     "alpha2": "GQ",
     "alpha3": "GNQ",
     "callingCodes": [
-      "+240"
+      "240"
     ],
     "currencies": [
       "XAF"
@@ -1946,7 +1946,7 @@
     "alpha2": "GR",
     "alpha3": "GRC",
     "callingCodes": [
-      "+30"
+      "30"
     ],
     "currencies": [
       "EUR"
@@ -1985,7 +1985,7 @@
     "alpha2": "GT",
     "alpha3": "GTM",
     "callingCodes": [
-      "+502"
+      "502"
     ],
     "currencies": [
       "GTQ"
@@ -2006,7 +2006,7 @@
     "alpha2": "GU",
     "alpha3": "GUM",
     "callingCodes": [
-      "+1 671"
+      "1 671"
     ],
     "currencies": [
       "USD"
@@ -2026,7 +2026,7 @@
     "alpha2": "GW",
     "alpha3": "GNB",
     "callingCodes": [
-      "+245"
+      "245"
     ],
     "currencies": [
       "XOF"
@@ -2047,7 +2047,7 @@
     "alpha2": "GY",
     "alpha3": "GUY",
     "callingCodes": [
-      "+592"
+      "592"
     ],
     "currencies": [
       "GYD"
@@ -2068,7 +2068,7 @@
     "alpha2": "HK",
     "alpha3": "HKG",
     "callingCodes": [
-      "+852"
+      "852"
     ],
     "currencies": [
       "HKD"
@@ -2110,7 +2110,7 @@
     "alpha2": "HN",
     "alpha3": "HND",
     "callingCodes": [
-      "+504"
+      "504"
     ],
     "currencies": [
       "HNL"
@@ -2132,7 +2132,7 @@
     "alpha2": "HR",
     "alpha3": "HRV",
     "callingCodes": [
-      "+385"
+      "385"
     ],
     "currencies": [
       "HRK"
@@ -2153,7 +2153,7 @@
     "alpha2": "HT",
     "alpha3": "HTI",
     "callingCodes": [
-      "+509"
+      "509"
     ],
     "currencies": [
       "HTG",
@@ -2179,7 +2179,7 @@
     "alpha2": "HU",
     "alpha3": "HUN",
     "callingCodes": [
-      "+36"
+      "36"
     ],
     "currencies": [
       "HUF"
@@ -2199,7 +2199,7 @@
     "alpha2": "ID",
     "alpha3": "IDN",
     "callingCodes": [
-      "+62"
+      "62"
     ],
     "currencies": [
       "IDR"
@@ -2220,7 +2220,7 @@
     "alpha2": "IE",
     "alpha3": "IRL",
     "callingCodes": [
-      "+353"
+      "353"
     ],
     "currencies": [
       "EUR"
@@ -2244,7 +2244,7 @@
     "alpha2": "IL",
     "alpha3": "ISR",
     "callingCodes": [
-      "+972"
+      "972"
     ],
     "currencies": [
       "ILS"
@@ -2269,7 +2269,7 @@
     "alpha2": "IM",
     "alpha3": "IMN",
     "callingCodes": [
-      "+44"
+      "44"
     ],
     "currencies": [
       "GBP"
@@ -2288,7 +2288,7 @@
     "alpha2": "IN",
     "alpha3": "IND",
     "callingCodes": [
-      "+91"
+      "91"
     ],
     "currencies": [
       "INR"
@@ -2314,7 +2314,7 @@
     "alpha2": "IO",
     "alpha3": "IOT",
     "callingCodes": [
-      "+246"
+      "246"
     ],
     "currencies": [
       "USD"
@@ -2334,7 +2334,7 @@
     "alpha2": "IQ",
     "alpha3": "IRQ",
     "callingCodes": [
-      "+964"
+      "964"
     ],
     "currencies": [
       "IQD"
@@ -2359,7 +2359,7 @@
     "alpha2": "IR",
     "alpha3": "IRN",
     "callingCodes": [
-      "+98"
+      "98"
     ],
     "currencies": [
       "IRR"
@@ -2380,7 +2380,7 @@
     "alpha2": "IS",
     "alpha3": "ISL",
     "callingCodes": [
-      "+354"
+      "354"
     ],
     "currencies": [
       "ISK"
@@ -2401,7 +2401,7 @@
     "alpha2": "IT",
     "alpha3": "ITA",
     "callingCodes": [
-      "+39"
+      "39"
     ],
     "currencies": [
       "EUR"
@@ -2422,7 +2422,7 @@
     "alpha2": "JE",
     "alpha3": "JEY",
     "callingCodes": [
-      "+44"
+      "44"
     ],
     "currencies": [
       "GBP"
@@ -2446,7 +2446,7 @@
     "alpha2": "JM",
     "alpha3": "JAM",
     "callingCodes": [
-      "+1 876"
+      "1 876"
     ],
     "currencies": [
       "JMD"
@@ -2466,7 +2466,7 @@
     "alpha2": "JO",
     "alpha3": "JOR",
     "callingCodes": [
-      "+962"
+      "962"
     ],
     "currencies": [
       "JOD"
@@ -2487,7 +2487,7 @@
     "alpha2": "JP",
     "alpha3": "JPN",
     "callingCodes": [
-      "+81"
+      "81"
     ],
     "currencies": [
       "JPY"
@@ -2507,7 +2507,7 @@
     "alpha2": "KE",
     "alpha3": "KEN",
     "callingCodes": [
-      "+254"
+      "254"
     ],
     "currencies": [
       "KES"
@@ -2532,7 +2532,7 @@
     "alpha2": "KG",
     "alpha3": "KGZ",
     "callingCodes": [
-      "+996"
+      "996"
     ],
     "currencies": [
       "KGS"
@@ -2557,7 +2557,7 @@
     "alpha2": "KH",
     "alpha3": "KHM",
     "callingCodes": [
-      "+855"
+      "855"
     ],
     "currencies": [
       "KHR"
@@ -2578,7 +2578,7 @@
     "alpha2": "KI",
     "alpha3": "KIR",
     "callingCodes": [
-      "+686"
+      "686"
     ],
     "currencies": [
       "AUD"
@@ -2604,7 +2604,7 @@
     "alpha2": "KM",
     "alpha3": "COM",
     "callingCodes": [
-      "+269"
+      "269"
     ],
     "currencies": [
       "KMF"
@@ -2634,7 +2634,7 @@
     "alpha2": "KN",
     "alpha3": "KNA",
     "callingCodes": [
-      "+1 869"
+      "1 869"
     ],
     "currencies": [
       "XCD"
@@ -2655,7 +2655,7 @@
     "alpha2": "KP",
     "alpha3": "PRK",
     "callingCodes": [
-      "+850"
+      "850"
     ],
     "currencies": [
       "KPW"
@@ -2676,7 +2676,7 @@
     "alpha2": "KR",
     "alpha3": "KOR",
     "callingCodes": [
-      "+82"
+      "82"
     ],
     "currencies": [
       "KRW"
@@ -2697,7 +2697,7 @@
     "alpha2": "KW",
     "alpha3": "KWT",
     "callingCodes": [
-      "+965"
+      "965"
     ],
     "currencies": [
       "KWD"
@@ -2718,7 +2718,7 @@
     "alpha2": "KY",
     "alpha3": "CYM",
     "callingCodes": [
-      "+1 345"
+      "1 345"
     ],
     "currencies": [
       "KYD"
@@ -2739,9 +2739,9 @@
     "alpha2": "KZ",
     "alpha3": "KAZ",
     "callingCodes": [
-      "+7",
-      "+7 6",
-      "+7 7"
+      "7",
+      "7 6",
+      "7 7"
     ],
     "currencies": [
       "KZT"
@@ -2766,7 +2766,7 @@
     "alpha2": "LA",
     "alpha3": "LAO",
     "callingCodes": [
-      "+856"
+      "856"
     ],
     "currencies": [
       "LAK"
@@ -2787,7 +2787,7 @@
     "alpha2": "LB",
     "alpha3": "LBN",
     "callingCodes": [
-      "+961"
+      "961"
     ],
     "currencies": [
       "LBP"
@@ -2808,7 +2808,7 @@
     "alpha2": "LC",
     "alpha3": "LCA",
     "callingCodes": [
-      "+1 758"
+      "1 758"
     ],
     "currencies": [
       "XCD"
@@ -2828,7 +2828,7 @@
     "alpha2": "LI",
     "alpha3": "LIE",
     "callingCodes": [
-      "+423"
+      "423"
     ],
     "currencies": [
       "CHF"
@@ -2849,7 +2849,7 @@
     "alpha2": "LK",
     "alpha3": "LKA",
     "callingCodes": [
-      "+94"
+      "94"
     ],
     "currencies": [
       "LKR"
@@ -2878,7 +2878,7 @@
     "alpha2": "LR",
     "alpha3": "LBR",
     "callingCodes": [
-      "+231"
+      "231"
     ],
     "currencies": [
       "LRD"
@@ -2899,7 +2899,7 @@
     "alpha2": "LS",
     "alpha3": "LSO",
     "callingCodes": [
-      "+266"
+      "266"
     ],
     "currencies": [
       "LSL",
@@ -2925,7 +2925,7 @@
     "alpha2": "LT",
     "alpha3": "LTU",
     "callingCodes": [
-      "+370"
+      "370"
     ],
     "currencies": [
       "EUR"
@@ -2946,7 +2946,7 @@
     "alpha2": "LU",
     "alpha3": "LUX",
     "callingCodes": [
-      "+352"
+      "352"
     ],
     "currencies": [
       "EUR"
@@ -2975,7 +2975,7 @@
     "alpha2": "LV",
     "alpha3": "LVA",
     "callingCodes": [
-      "+371"
+      "371"
     ],
     "currencies": [
       "EUR"
@@ -2996,7 +2996,7 @@
     "alpha2": "LY",
     "alpha3": "LBY",
     "callingCodes": [
-      "+218"
+      "218"
     ],
     "currencies": [
       "LYD"
@@ -3017,7 +3017,7 @@
     "alpha2": "MA",
     "alpha3": "MAR",
     "callingCodes": [
-      "+212"
+      "212"
     ],
     "currencies": [
       "MAD"
@@ -3038,7 +3038,7 @@
     "alpha2": "MC",
     "alpha3": "MCO",
     "callingCodes": [
-      "+377"
+      "377"
     ],
     "currencies": [
       "EUR"
@@ -3059,7 +3059,7 @@
     "alpha2": "MD",
     "alpha3": "MDA",
     "callingCodes": [
-      "+373"
+      "373"
     ],
     "currencies": [
       "MDL"
@@ -3080,7 +3080,7 @@
     "alpha2": "ME",
     "alpha3": "MNE",
     "callingCodes": [
-      "+382"
+      "382"
     ],
     "currencies": [
       "EUR"
@@ -3100,7 +3100,7 @@
     "alpha2": "MF",
     "alpha3": "MAF",
     "callingCodes": [
-      "+590"
+      "590"
     ],
     "currencies": [
       "EUR"
@@ -3119,7 +3119,7 @@
     "alpha2": "MG",
     "alpha3": "MDG",
     "callingCodes": [
-      "+261"
+      "261"
     ],
     "currencies": [
       "MGA"
@@ -3148,7 +3148,7 @@
     "alpha2": "MH",
     "alpha3": "MHL",
     "callingCodes": [
-      "+692"
+      "692"
     ],
     "currencies": [
       "USD"
@@ -3174,7 +3174,7 @@
     "alpha2": "MK",
     "alpha3": "MKD",
     "callingCodes": [
-      "+389"
+      "389"
     ],
     "currencies": [
       "MKD"
@@ -3195,7 +3195,7 @@
     "alpha2": "ML",
     "alpha3": "MLI",
     "callingCodes": [
-      "+223"
+      "223"
     ],
     "currencies": [
       "XOF"
@@ -3216,7 +3216,7 @@
     "alpha2": "MM",
     "alpha3": "MMR",
     "callingCodes": [
-      "+95"
+      "95"
     ],
     "currencies": [
       "MMK"
@@ -3237,7 +3237,7 @@
     "alpha2": "MN",
     "alpha3": "MNG",
     "callingCodes": [
-      "+976"
+      "976"
     ],
     "currencies": [
       "MNT"
@@ -3257,7 +3257,7 @@
     "alpha2": "MO",
     "alpha3": "MAC",
     "callingCodes": [
-      "+853"
+      "853"
     ],
     "currencies": [
       "MOP"
@@ -3282,7 +3282,7 @@
     "alpha2": "MP",
     "alpha3": "MNP",
     "callingCodes": [
-      "+1 670"
+      "1 670"
     ],
     "currencies": [
       "USD"
@@ -3303,7 +3303,7 @@
     "alpha2": "MQ",
     "alpha3": "MTQ",
     "callingCodes": [
-      "+596"
+      "596"
     ],
     "currencies": [
       "EUR"
@@ -3322,7 +3322,7 @@
     "alpha2": "MR",
     "alpha3": "MRT",
     "callingCodes": [
-      "+222"
+      "222"
     ],
     "currencies": [
       "MRO"
@@ -3343,7 +3343,7 @@
     "alpha2": "MS",
     "alpha3": "MSR",
     "callingCodes": [
-      "+1 664"
+      "1 664"
     ],
     "currencies": [
       "XCD"
@@ -3362,7 +3362,7 @@
     "alpha2": "MT",
     "alpha3": "MLT",
     "callingCodes": [
-      "+356"
+      "356"
     ],
     "currencies": [
       "EUR"
@@ -3387,7 +3387,7 @@
     "alpha2": "MU",
     "alpha3": "MUS",
     "callingCodes": [
-      "+230"
+      "230"
     ],
     "currencies": [
       "MUR"
@@ -3409,7 +3409,7 @@
     "alpha2": "MV",
     "alpha3": "MDV",
     "callingCodes": [
-      "+960"
+      "960"
     ],
     "currencies": [
       "MVR"
@@ -3430,7 +3430,7 @@
     "alpha2": "MW",
     "alpha3": "MWI",
     "callingCodes": [
-      "+265"
+      "265"
     ],
     "currencies": [
       "MWK"
@@ -3455,7 +3455,7 @@
     "alpha2": "MX",
     "alpha3": "MEX",
     "callingCodes": [
-      "+52"
+      "52"
     ],
     "currencies": [
       "MXN",
@@ -3477,7 +3477,7 @@
     "alpha2": "MY",
     "alpha3": "MYS",
     "callingCodes": [
-      "+60"
+      "60"
     ],
     "currencies": [
       "MYR"
@@ -3498,7 +3498,7 @@
     "alpha2": "MZ",
     "alpha3": "MOZ",
     "callingCodes": [
-      "+258"
+      "258"
     ],
     "currencies": [
       "MZN"
@@ -3519,7 +3519,7 @@
     "alpha2": "NA",
     "alpha3": "NAM",
     "callingCodes": [
-      "+264"
+      "264"
     ],
     "currencies": [
       "NAD",
@@ -3541,7 +3541,7 @@
     "alpha2": "NC",
     "alpha3": "NCL",
     "callingCodes": [
-      "+687"
+      "687"
     ],
     "currencies": [
       "XPF"
@@ -3561,7 +3561,7 @@
     "alpha2": "NE",
     "alpha3": "NER",
     "callingCodes": [
-      "+227"
+      "227"
     ],
     "currencies": [
       "XOF"
@@ -3582,7 +3582,7 @@
     "alpha2": "NF",
     "alpha3": "NFK",
     "callingCodes": [
-      "+672"
+      "672"
     ],
     "currencies": [
       "AUD"
@@ -3601,7 +3601,7 @@
     "alpha2": "NG",
     "alpha3": "NGA",
     "callingCodes": [
-      "+234"
+      "234"
     ],
     "currencies": [
       "NGN"
@@ -3622,7 +3622,7 @@
     "alpha2": "NI",
     "alpha3": "NIC",
     "callingCodes": [
-      "+505"
+      "505"
     ],
     "currencies": [
       "NIO"
@@ -3643,7 +3643,7 @@
     "alpha2": "NL",
     "alpha3": "NLD",
     "callingCodes": [
-      "+31"
+      "31"
     ],
     "currencies": [
       "EUR"
@@ -3664,7 +3664,7 @@
     "alpha2": "NO",
     "alpha3": "NOR",
     "callingCodes": [
-      "+47"
+      "47"
     ],
     "currencies": [
       "NOK"
@@ -3689,7 +3689,7 @@
     "alpha2": "NP",
     "alpha3": "NPL",
     "callingCodes": [
-      "+977"
+      "977"
     ],
     "currencies": [
       "NPR"
@@ -3710,7 +3710,7 @@
     "alpha2": "NR",
     "alpha3": "NRU",
     "callingCodes": [
-      "+674"
+      "674"
     ],
     "currencies": [
       "AUD"
@@ -3735,7 +3735,7 @@
     "alpha2": "NU",
     "alpha3": "NIU",
     "callingCodes": [
-      "+683"
+      "683"
     ],
     "currencies": [
       "NZD"
@@ -3758,7 +3758,7 @@
     "alpha2": "NZ",
     "alpha3": "NZL",
     "callingCodes": [
-      "+64"
+      "64"
     ],
     "currencies": [
       "NZD"
@@ -3783,7 +3783,7 @@
     "alpha2": "OM",
     "alpha3": "OMN",
     "callingCodes": [
-      "+968"
+      "968"
     ],
     "currencies": [
       "OMR"
@@ -3805,7 +3805,7 @@
     "alpha2": "PA",
     "alpha3": "PAN",
     "callingCodes": [
-      "+507"
+      "507"
     ],
     "currencies": [
       "PAB",
@@ -3827,7 +3827,7 @@
     "alpha2": "PE",
     "alpha3": "PER",
     "callingCodes": [
-      "+51"
+      "51"
     ],
     "currencies": [
       "PEN"
@@ -3856,7 +3856,7 @@
     "alpha2": "PF",
     "alpha3": "PYF",
     "callingCodes": [
-      "+689"
+      "689"
     ],
     "currencies": [
       "XPF"
@@ -3876,7 +3876,7 @@
     "alpha2": "PG",
     "alpha3": "PNG",
     "callingCodes": [
-      "+675"
+      "675"
     ],
     "currencies": [
       "PGK"
@@ -3906,7 +3906,7 @@
     "alpha2": "PH",
     "alpha3": "PHL",
     "callingCodes": [
-      "+63"
+      "63"
     ],
     "currencies": [
       "PHP"
@@ -3931,7 +3931,7 @@
     "alpha2": "PK",
     "alpha3": "PAK",
     "callingCodes": [
-      "+92"
+      "92"
     ],
     "currencies": [
       "PKR"
@@ -3956,7 +3956,7 @@
     "alpha2": "PL",
     "alpha3": "POL",
     "callingCodes": [
-      "+48"
+      "48"
     ],
     "currencies": [
       "PLN"
@@ -3977,7 +3977,7 @@
     "alpha2": "PM",
     "alpha3": "SPM",
     "callingCodes": [
-      "+508"
+      "508"
     ],
     "currencies": [
       "EUR"
@@ -3997,7 +3997,7 @@
     "alpha2": "PN",
     "alpha3": "PCN",
     "callingCodes": [
-      "+872"
+      "872"
     ],
     "currencies": [
       "NZD"
@@ -4017,8 +4017,8 @@
     "alpha2": "PR",
     "alpha3": "PRI",
     "callingCodes": [
-      "+1 787",
-      "+1 939"
+      "1 787",
+      "1 939"
     ],
     "currencies": [
       "USD"
@@ -4042,7 +4042,7 @@
     "alpha2": "PS",
     "alpha3": "PSE",
     "callingCodes": [
-      "+970"
+      "970"
     ],
     "currencies": [
       "JOD",
@@ -4065,7 +4065,7 @@
     "alpha2": "PT",
     "alpha3": "PRT",
     "callingCodes": [
-      "+351"
+      "351"
     ],
     "currencies": [
       "EUR"
@@ -4086,7 +4086,7 @@
     "alpha2": "PW",
     "alpha3": "PLW",
     "callingCodes": [
-      "+680"
+      "680"
     ],
     "currencies": [
       "USD"
@@ -4112,7 +4112,7 @@
     "alpha2": "PY",
     "alpha3": "PRY",
     "callingCodes": [
-      "+595"
+      "595"
     ],
     "currencies": [
       "PYG"
@@ -4137,7 +4137,7 @@
     "alpha2": "QA",
     "alpha3": "QAT",
     "callingCodes": [
-      "+974"
+      "974"
     ],
     "currencies": [
       "QAR"
@@ -4158,7 +4158,7 @@
     "alpha2": "RE",
     "alpha3": "REU",
     "callingCodes": [
-      "+262"
+      "262"
     ],
     "currencies": [
       "EUR"
@@ -4177,7 +4177,7 @@
     "alpha2": "RO",
     "alpha3": "ROU",
     "callingCodes": [
-      "+40"
+      "40"
     ],
     "currencies": [
       "RON"
@@ -4197,7 +4197,7 @@
     "alpha2": "RS",
     "alpha3": "SRB",
     "callingCodes": [
-      "+381"
+      "381"
     ],
     "currencies": [
       "RSD"
@@ -4218,10 +4218,10 @@
     "alpha2": "RU",
     "alpha3": "RUS",
     "callingCodes": [
-      "+7",
-      "+7 3",
-      "+7 4",
-      "+7 8"
+      "7",
+      "7 3",
+      "7 4",
+      "7 8"
     ],
     "currencies": [
       "RUB"
@@ -4243,7 +4243,7 @@
     "alpha2": "RW",
     "alpha3": "RWA",
     "callingCodes": [
-      "+250"
+      "250"
     ],
     "currencies": [
       "RWF"
@@ -4272,7 +4272,7 @@
     "alpha2": "SA",
     "alpha3": "SAU",
     "callingCodes": [
-      "+966"
+      "966"
     ],
     "currencies": [
       "SAR"
@@ -4293,7 +4293,7 @@
     "alpha2": "SB",
     "alpha3": "SLB",
     "callingCodes": [
-      "+677"
+      "677"
     ],
     "currencies": [
       "SBD"
@@ -4314,7 +4314,7 @@
     "alpha2": "SC",
     "alpha3": "SYC",
     "callingCodes": [
-      "+248"
+      "248"
     ],
     "currencies": [
       "SCR"
@@ -4344,7 +4344,7 @@
     "alpha2": "SD",
     "alpha3": "SDN",
     "callingCodes": [
-      "+249"
+      "249"
     ],
     "currencies": [
       "SDG"
@@ -4365,7 +4365,7 @@
     "alpha2": "SE",
     "alpha3": "SWE",
     "callingCodes": [
-      "+46"
+      "46"
     ],
     "currencies": [
       "SEK"
@@ -4386,7 +4386,7 @@
     "alpha2": "SG",
     "alpha3": "SGP",
     "callingCodes": [
-      "+65"
+      "65"
     ],
     "currencies": [
       "SGD"
@@ -4419,7 +4419,7 @@
     "alpha2": "SH",
     "alpha3": "SHN",
     "callingCodes": [
-      "+290"
+      "290"
     ],
     "currencies": [
       "SHP"
@@ -4439,7 +4439,7 @@
     "alpha2": "SI",
     "alpha3": "SVN",
     "callingCodes": [
-      "+386"
+      "386"
     ],
     "currencies": [
       "EUR"
@@ -4460,7 +4460,7 @@
     "alpha2": "SJ",
     "alpha3": "SJM",
     "callingCodes": [
-      "+47"
+      "47"
     ],
     "currencies": [
       "NOK"
@@ -4484,7 +4484,7 @@
     "alpha2": "SK",
     "alpha3": "SVK",
     "callingCodes": [
-      "+421"
+      "421"
     ],
     "currencies": [
       "EUR"
@@ -4505,7 +4505,7 @@
     "alpha2": "SL",
     "alpha3": "SLE",
     "callingCodes": [
-      "+232"
+      "232"
     ],
     "currencies": [
       "SLL"
@@ -4526,7 +4526,7 @@
     "alpha2": "SM",
     "alpha3": "SMR",
     "callingCodes": [
-      "+378"
+      "378"
     ],
     "currencies": [
       "EUR"
@@ -4547,7 +4547,7 @@
     "alpha2": "SN",
     "alpha3": "SEN",
     "callingCodes": [
-      "+221"
+      "221"
     ],
     "currencies": [
       "XOF"
@@ -4568,7 +4568,7 @@
     "alpha2": "SO",
     "alpha3": "SOM",
     "callingCodes": [
-      "+252"
+      "252"
     ],
     "currencies": [
       "SOS"
@@ -4593,7 +4593,7 @@
     "alpha2": "SR",
     "alpha3": "SUR",
     "callingCodes": [
-      "+597"
+      "597"
     ],
     "currencies": [
       "SRD"
@@ -4614,7 +4614,7 @@
     "alpha2": "SS",
     "alpha3": "SSD",
     "callingCodes": [
-      "+211"
+      "211"
     ],
     "currencies": [
       "SSP"
@@ -4635,7 +4635,7 @@
     "alpha2": "ST",
     "alpha3": "STP",
     "callingCodes": [
-      "+239"
+      "239"
     ],
     "currencies": [
       "STD"
@@ -4657,7 +4657,7 @@
     "alpha2": "SV",
     "alpha3": "SLV",
     "callingCodes": [
-      "+503"
+      "503"
     ],
     "currencies": [
       "USD"
@@ -4678,7 +4678,7 @@
     "alpha2": "SX",
     "alpha3": "SXM",
     "callingCodes": [
-      "+1 721"
+      "1 721"
     ],
     "currencies": [
       "ANG"
@@ -4701,7 +4701,7 @@
     "alpha2": "SY",
     "alpha3": "SYR",
     "callingCodes": [
-      "+963"
+      "963"
     ],
     "currencies": [
       "SYP"
@@ -4722,7 +4722,7 @@
     "alpha2": "SZ",
     "alpha3": "SWZ",
     "callingCodes": [
-      "+268"
+      "268"
     ],
     "currencies": [
       "SZL"
@@ -4747,7 +4747,7 @@
     "alpha2": "TC",
     "alpha3": "TCA",
     "callingCodes": [
-      "+1 649"
+      "1 649"
     ],
     "currencies": [
       "USD"
@@ -4767,7 +4767,7 @@
     "alpha2": "TD",
     "alpha3": "TCD",
     "callingCodes": [
-      "+235"
+      "235"
     ],
     "currencies": [
       "XAF"
@@ -4809,7 +4809,7 @@
     "alpha2": "TG",
     "alpha3": "TGO",
     "callingCodes": [
-      "+228"
+      "228"
     ],
     "currencies": [
       "XOF"
@@ -4830,7 +4830,7 @@
     "alpha2": "TH",
     "alpha3": "THA",
     "callingCodes": [
-      "+66"
+      "66"
     ],
     "currencies": [
       "THB"
@@ -4851,7 +4851,7 @@
     "alpha2": "TJ",
     "alpha3": "TJK",
     "callingCodes": [
-      "+992"
+      "992"
     ],
     "currencies": [
       "TJS"
@@ -4872,7 +4872,7 @@
     "alpha2": "TK",
     "alpha3": "TKL",
     "callingCodes": [
-      "+690"
+      "690"
     ],
     "currencies": [
       "NZD"
@@ -4895,7 +4895,7 @@
     "alpha2": "TL",
     "alpha3": "TLS",
     "callingCodes": [
-      "+670"
+      "670"
     ],
     "currencies": [
       "USD"
@@ -4921,7 +4921,7 @@
     "alpha2": "TM",
     "alpha3": "TKM",
     "callingCodes": [
-      "+993"
+      "993"
     ],
     "currencies": [
       "TMT"
@@ -4941,7 +4941,7 @@
     "alpha2": "TN",
     "alpha3": "TUN",
     "callingCodes": [
-      "+216"
+      "216"
     ],
     "currencies": [
       "TND"
@@ -4962,7 +4962,7 @@
     "alpha2": "TO",
     "alpha3": "TON",
     "callingCodes": [
-      "+676"
+      "676"
     ],
     "currencies": [
       "TOP"
@@ -4988,7 +4988,7 @@
     "alpha2": "TR",
     "alpha3": "TUR",
     "callingCodes": [
-      "+90"
+      "90"
     ],
     "currencies": [
       "TRY"
@@ -5009,7 +5009,7 @@
     "alpha2": "TT",
     "alpha3": "TTO",
     "callingCodes": [
-      "+1 868"
+      "1 868"
     ],
     "currencies": [
       "TTD"
@@ -5031,7 +5031,7 @@
     "alpha2": "TV",
     "alpha3": "TUV",
     "callingCodes": [
-      "+688"
+      "688"
     ],
     "currencies": [
       "AUD"
@@ -5056,7 +5056,7 @@
     "alpha2": "TW",
     "alpha3": "TWN",
     "callingCodes": [
-      "+886"
+      "886"
     ],
     "currencies": [
       "TWD"
@@ -5077,7 +5077,7 @@
     "alpha2": "TZ",
     "alpha3": "TZA",
     "callingCodes": [
-      "+255"
+      "255"
     ],
     "currencies": [
       "TZS"
@@ -5102,7 +5102,7 @@
     "alpha2": "UA",
     "alpha3": "UKR",
     "callingCodes": [
-      "+380"
+      "380"
     ],
     "currencies": [
       "UAH"
@@ -5122,7 +5122,7 @@
     "alpha2": "UG",
     "alpha3": "UGA",
     "callingCodes": [
-      "+256"
+      "256"
     ],
     "currencies": [
       "UGX"
@@ -5143,7 +5143,7 @@
     "alpha2": "UM",
     "alpha3": "UMI",
     "callingCodes": [
-      "+1"
+      "1"
     ],
     "currencies": [
       "USD"
@@ -5163,7 +5163,7 @@
     "alpha2": "US",
     "alpha3": "USA",
     "callingCodes": [
-      "+1"
+      "1"
     ],
     "currencies": [
       "USD"
@@ -5184,7 +5184,7 @@
     "alpha2": "UY",
     "alpha3": "URY",
     "callingCodes": [
-      "+598"
+      "598"
     ],
     "currencies": [
       "UYU",
@@ -5206,7 +5206,7 @@
     "alpha2": "UZ",
     "alpha3": "UZB",
     "callingCodes": [
-      "+998"
+      "998"
     ],
     "currencies": [
       "UZS"
@@ -5227,8 +5227,8 @@
     "alpha2": "VA",
     "alpha3": "VAT",
     "callingCodes": [
-      "+379",
-      "+39"
+      "379",
+      "39"
     ],
     "currencies": [
       "EUR"
@@ -5251,7 +5251,7 @@
     "alpha2": "VC",
     "alpha3": "VCT",
     "callingCodes": [
-      "+1 784"
+      "1 784"
     ],
     "currencies": [
       "XCD"
@@ -5272,7 +5272,7 @@
     "alpha2": "VE",
     "alpha3": "VEN",
     "callingCodes": [
-      "+58"
+      "58"
     ],
     "currencies": [
       "VEF"
@@ -5294,7 +5294,7 @@
     "alpha2": "VG",
     "alpha3": "VGB",
     "callingCodes": [
-      "+1 284"
+      "1 284"
     ],
     "currencies": [
       "USD"
@@ -5316,7 +5316,7 @@
     "alpha2": "VI",
     "alpha3": "VIR",
     "callingCodes": [
-      "+1 340"
+      "1 340"
     ],
     "currencies": [
       "USD"
@@ -5338,7 +5338,7 @@
     "alpha2": "VN",
     "alpha3": "VNM",
     "callingCodes": [
-      "+84"
+      "84"
     ],
     "currencies": [
       "VND"
@@ -5359,7 +5359,7 @@
     "alpha2": "VU",
     "alpha3": "VUT",
     "callingCodes": [
-      "+678"
+      "678"
     ],
     "currencies": [
       "VUV"
@@ -5389,7 +5389,7 @@
     "alpha2": "WF",
     "alpha3": "WLF",
     "callingCodes": [
-      "+681"
+      "681"
     ],
     "currencies": [
       "XPF"
@@ -5410,7 +5410,7 @@
     "alpha2": "WS",
     "alpha3": "WSM",
     "callingCodes": [
-      "+685"
+      "685"
     ],
     "currencies": [
       "WST"
@@ -5436,7 +5436,7 @@
     "alpha2": "YE",
     "alpha3": "YEM",
     "callingCodes": [
-      "+967"
+      "967"
     ],
     "currencies": [
       "YER"
@@ -5458,7 +5458,7 @@
     "alpha2": "YT",
     "alpha3": "MYT",
     "callingCodes": [
-      "+262"
+      "262"
     ],
     "currencies": [
       "EUR"
@@ -5477,7 +5477,7 @@
     "alpha2": "ZA",
     "alpha3": "ZAF",
     "callingCodes": [
-      "+27"
+      "27"
     ],
     "currencies": [
       "ZAR"
@@ -5539,7 +5539,7 @@
     "alpha2": "ZM",
     "alpha3": "ZMB",
     "callingCodes": [
-      "+260"
+      "260"
     ],
     "currencies": [
       "ZMW"
@@ -5560,7 +5560,7 @@
     "alpha2": "ZW",
     "alpha3": "ZWE",
     "callingCodes": [
-      "+263"
+      "263"
     ],
     "currencies": [
       "USD",

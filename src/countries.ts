@@ -4,7 +4,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AD',
     alpha3: 'AND',
-    callingCodes: ['+376'],
+    callingCodes: ['376'],
     currencies: ['EUR'],
     emoji: '🇦🇩',
     fullName: 'the Principality of Andorra',
@@ -21,7 +21,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AE',
     alpha3: 'ARE',
-    callingCodes: ['+971'],
+    callingCodes: ['971'],
     currencies: ['AED'],
     emoji: '🇦🇪',
     fullName: 'the United Arab Emirates',
@@ -38,7 +38,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AF',
     alpha3: 'AFG',
-    callingCodes: ['+93'],
+    callingCodes: ['93'],
     currencies: ['AFN'],
     emoji: '🇦🇫',
     fullName: 'the Islamic Republic of Afghanistan',
@@ -59,7 +59,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AG',
     alpha3: 'ATG',
-    callingCodes: ['+1 268'],
+    callingCodes: ['1 268'],
     currencies: ['XCD'],
     emoji: '🇦🇬',
     ioc: 'ANT',
@@ -76,7 +76,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AI',
     alpha3: 'AIA',
-    callingCodes: ['+1 264'],
+    callingCodes: ['1 264'],
     currencies: ['XCD'],
     emoji: '🇦🇮',
     languages: [
@@ -91,7 +91,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AL',
     alpha3: 'ALB',
-    callingCodes: ['+355'],
+    callingCodes: ['355'],
     currencies: ['ALL'],
     emoji: '🇦🇱',
     fullName: 'the Republic of Albania',
@@ -108,7 +108,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AM',
     alpha3: 'ARM',
-    callingCodes: ['+374'],
+    callingCodes: ['374'],
     currencies: ['AMD'],
     emoji: '🇦🇲',
     fullName: 'the Republic of Armenia',
@@ -125,7 +125,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AO',
     alpha3: 'AGO',
-    callingCodes: ['+244'],
+    callingCodes: ['244'],
     currencies: ['AOA'],
     emoji: '🇦🇴',
     fullName: 'the Republic of Angola',
@@ -143,7 +143,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AQ',
     alpha3: 'ATA',
-    callingCodes: ['+672'],
+    callingCodes: ['672'],
     emoji: '🇦🇶',
     numeric: '010',
     shortName: 'Antarctica',
@@ -151,7 +151,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AR',
     alpha3: 'ARG',
-    callingCodes: ['+54'],
+    callingCodes: ['54'],
     currencies: ['ARS'],
     emoji: '🇦🇷',
     fullName: 'the Argentine Republic',
@@ -168,7 +168,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AS',
     alpha3: 'ASM',
-    callingCodes: ['+1 684'],
+    callingCodes: ['1 684'],
     currencies: ['USD'],
     emoji: '🇦🇸',
     ioc: 'ASA',
@@ -185,7 +185,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AT',
     alpha3: 'AUT',
-    callingCodes: ['+43'],
+    callingCodes: ['43'],
     currencies: ['EUR'],
     emoji: '🇦🇹',
     fullName: 'the Republic of Austria',
@@ -202,7 +202,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AU',
     alpha3: 'AUS',
-    callingCodes: ['+61'],
+    callingCodes: ['61'],
     currencies: ['AUD'],
     emoji: '🇦🇺',
     ioc: 'AUS',
@@ -220,7 +220,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AW',
     alpha3: 'ABW',
-    callingCodes: ['+297'],
+    callingCodes: ['297'],
     currencies: ['AWG'],
     emoji: '🇦🇼',
     ioc: 'ARU',
@@ -240,7 +240,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AX',
     alpha3: 'ALA',
-    callingCodes: ['+358'],
+    callingCodes: ['358'],
     currencies: ['EUR'],
     emoji: '🇦🇽',
     languages: [
@@ -255,7 +255,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'AZ',
     alpha3: 'AZE',
-    callingCodes: ['+994'],
+    callingCodes: ['994'],
     currencies: ['AZN'],
     emoji: '🇦🇿',
     fullName: 'the Republic of Azerbaijan',
@@ -272,7 +272,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BA',
     alpha3: 'BIH',
-    callingCodes: ['+387'],
+    callingCodes: ['387'],
     currencies: ['BAM'],
     emoji: '🇧🇦',
     ioc: 'BIH',
@@ -297,7 +297,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BB',
     alpha3: 'BRB',
-    callingCodes: ['+1 246'],
+    callingCodes: ['1 246'],
     currencies: ['BBD'],
     emoji: '🇧🇧',
     ioc: 'BAR',
@@ -313,7 +313,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BD',
     alpha3: 'BGD',
-    callingCodes: ['+880'],
+    callingCodes: ['880'],
     currencies: ['BDT'],
     emoji: '🇧🇩',
     fullName: "the People's Republic of Bangladesh",
@@ -330,7 +330,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BE',
     alpha3: 'BEL',
-    callingCodes: ['+32'],
+    callingCodes: ['32'],
     currencies: ['EUR'],
     emoji: '🇧🇪',
     fullName: 'the Kingdom of Belgium',
@@ -355,7 +355,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BF',
     alpha3: 'BFA',
-    callingCodes: ['+226'],
+    callingCodes: ['226'],
     currencies: ['XOF'],
     emoji: '🇧🇫',
     ioc: 'BUR',
@@ -371,7 +371,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BG',
     alpha3: 'BGR',
-    callingCodes: ['+359'],
+    callingCodes: ['359'],
     currencies: ['BGN'],
     emoji: '🇧🇬',
     fullName: 'the Republic of Bulgaria',
@@ -388,7 +388,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BH',
     alpha3: 'BHR',
-    callingCodes: ['+973'],
+    callingCodes: ['973'],
     currencies: ['BHD'],
     emoji: '🇧🇭',
     fullName: 'the Kingdom of Bahrain',
@@ -405,7 +405,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BI',
     alpha3: 'BDI',
-    callingCodes: ['+257'],
+    callingCodes: ['257'],
     currencies: ['BIF'],
     emoji: '🇧🇮',
     fullName: 'the Republic of Burundi',
@@ -426,7 +426,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BJ',
     alpha3: 'BEN',
-    callingCodes: ['+229'],
+    callingCodes: ['229'],
     currencies: ['XOF'],
     emoji: '🇧🇯',
     fullName: 'the Republic of Benin',
@@ -443,7 +443,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BL',
     alpha3: 'BLM',
-    callingCodes: ['+590'],
+    callingCodes: ['590'],
     currencies: ['EUR'],
     emoji: '🇧🇱',
     languages: [
@@ -458,7 +458,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BM',
     alpha3: 'BMU',
-    callingCodes: ['+1 441'],
+    callingCodes: ['1 441'],
     currencies: ['BMD'],
     emoji: '🇧🇲',
     ioc: 'BER',
@@ -474,7 +474,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BN',
     alpha3: 'BRN',
-    callingCodes: ['+673'],
+    callingCodes: ['673'],
     currencies: ['BND'],
     emoji: '🇧🇳',
     ioc: 'BRU',
@@ -494,7 +494,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BO',
     alpha3: 'BOL',
-    callingCodes: ['+591'],
+    callingCodes: ['591'],
     currencies: ['BOB', 'BOV'],
     emoji: '🇧🇴',
     fullName: 'the Plurinational State of Bolivia',
@@ -511,7 +511,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BQ',
     alpha3: 'BES',
-    callingCodes: ['+599'],
+    callingCodes: ['599'],
     currencies: ['USD'],
     emoji: '🇧🇶',
     languages: [
@@ -535,7 +535,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BR',
     alpha3: 'BRA',
-    callingCodes: ['+55'],
+    callingCodes: ['55'],
     currencies: ['BRL'],
     emoji: '🇧🇷',
     fullName: 'the Federative Republic of Brazil',
@@ -554,7 +554,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BS',
     alpha3: 'BHS',
-    callingCodes: ['+1 242'],
+    callingCodes: ['1 242'],
     currencies: ['BSD'],
     emoji: '🇧🇸',
     fullName: 'the Commonwealth of the Bahamas',
@@ -571,7 +571,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BT',
     alpha3: 'BTN',
-    callingCodes: ['+975'],
+    callingCodes: ['975'],
     currencies: ['INR', 'BTN'],
     emoji: '🇧🇹',
     fullName: 'the Kingdom of Bhutan',
@@ -606,7 +606,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BW',
     alpha3: 'BWA',
-    callingCodes: ['+267'],
+    callingCodes: ['267'],
     currencies: ['BWP'],
     emoji: '🇧🇼',
     fullName: 'the Republic of Botswana',
@@ -623,7 +623,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BY',
     alpha3: 'BLR',
-    callingCodes: ['+375'],
+    callingCodes: ['375'],
     currencies: ['BYN'],
     emoji: '🇧🇾',
     fullName: 'the Republic of Belarus',
@@ -644,7 +644,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'BZ',
     alpha3: 'BLZ',
-    callingCodes: ['+501'],
+    callingCodes: ['501'],
     currencies: ['BZD'],
     emoji: '🇧🇿',
     ioc: 'BIZ',
@@ -660,7 +660,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CA',
     alpha3: 'CAN',
-    callingCodes: ['+1'],
+    callingCodes: ['1'],
     currencies: ['CAD'],
     emoji: '🇨🇦',
     ioc: 'CAN',
@@ -680,7 +680,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CC',
     alpha3: 'CCK',
-    callingCodes: ['+61'],
+    callingCodes: ['61'],
     currencies: ['AUD'],
     emoji: '🇨🇨',
     languages: [
@@ -695,7 +695,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CD',
     alpha3: 'COD',
-    callingCodes: ['+243'],
+    callingCodes: ['243'],
     currencies: ['CDF'],
     emoji: '🇨🇩',
     fullName: 'the Democratic Republic of the Congo',
@@ -712,7 +712,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CF',
     alpha3: 'CAF',
-    callingCodes: ['+236'],
+    callingCodes: ['236'],
     currencies: ['XAF'],
     emoji: '🇨🇫',
     fullName: 'the Central African Republic',
@@ -733,7 +733,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CG',
     alpha3: 'COG',
-    callingCodes: ['+242'],
+    callingCodes: ['242'],
     currencies: ['XAF'],
     emoji: '🇨🇬',
     fullName: 'the Republic of the Congo',
@@ -750,7 +750,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CH',
     alpha3: 'CHE',
-    callingCodes: ['+41'],
+    callingCodes: ['41'],
     currencies: ['CHF', 'CHE', 'CHW'],
     emoji: '🇨🇭',
     fullName: 'the Swiss Confederation',
@@ -779,7 +779,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CI',
     alpha3: 'CIV',
-    callingCodes: ['+225'],
+    callingCodes: ['225'],
     currencies: ['XOF'],
     emoji: '🇨🇮',
     fullName: "the Republic of Côte d'Ivoire",
@@ -796,7 +796,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CK',
     alpha3: 'COK',
-    callingCodes: ['+682'],
+    callingCodes: ['682'],
     currencies: ['NZD'],
     emoji: '🇨🇰',
     ioc: 'COK',
@@ -813,7 +813,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CL',
     alpha3: 'CHL',
-    callingCodes: ['+56'],
+    callingCodes: ['56'],
     currencies: ['CLP', 'CLF'],
     emoji: '🇨🇱',
     fullName: 'the Republic of Chile',
@@ -832,7 +832,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CM',
     alpha3: 'CMR',
-    callingCodes: ['+237'],
+    callingCodes: ['237'],
     currencies: ['XAF'],
     emoji: '🇨🇲',
     fullName: 'the Republic of Cameroon',
@@ -853,7 +853,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CN',
     alpha3: 'CHN',
-    callingCodes: ['+86'],
+    callingCodes: ['86'],
     currencies: ['CNY'],
     emoji: '🇨🇳',
     fullName: "the People's Republic of China",
@@ -870,7 +870,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CO',
     alpha3: 'COL',
-    callingCodes: ['+57'],
+    callingCodes: ['57'],
     currencies: ['COP', 'COU'],
     emoji: '🇨🇴',
     fullName: 'the Republic of Colombia',
@@ -888,7 +888,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CR',
     alpha3: 'CRI',
-    callingCodes: ['+506'],
+    callingCodes: ['506'],
     currencies: ['CRC'],
     emoji: '🇨🇷',
     fullName: 'the Republic of Costa Rica',
@@ -906,7 +906,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CU',
     alpha3: 'CUB',
-    callingCodes: ['+53'],
+    callingCodes: ['53'],
     currencies: ['CUP', 'CUC'],
     emoji: '🇨🇺',
     fullName: 'the Republic of Cuba',
@@ -923,7 +923,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CV',
     alpha3: 'CPV',
-    callingCodes: ['+238'],
+    callingCodes: ['238'],
     currencies: ['CVE'],
     emoji: '🇨🇻',
     fullName: 'the Republic of Cabo Verde',
@@ -941,7 +941,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CW',
     alpha3: 'CUW',
-    callingCodes: ['+599'],
+    callingCodes: ['599'],
     currencies: ['ANG'],
     emoji: '🇨🇼',
     languages: [
@@ -964,7 +964,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CX',
     alpha3: 'CXR',
-    callingCodes: ['+61'],
+    callingCodes: ['61'],
     currencies: ['AUD'],
     emoji: '🇨🇽',
     languages: [
@@ -979,7 +979,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CY',
     alpha3: 'CYP',
-    callingCodes: ['+357'],
+    callingCodes: ['357'],
     currencies: ['EUR'],
     emoji: '🇨🇾',
     fullName: 'the Republic of Cyprus',
@@ -1000,7 +1000,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'CZ',
     alpha3: 'CZE',
-    callingCodes: ['+420'],
+    callingCodes: ['420'],
     currencies: ['CZK'],
     emoji: '🇨🇿',
     fullName: 'the Czech Republic',
@@ -1017,7 +1017,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DE',
     alpha3: 'DEU',
-    callingCodes: ['+49'],
+    callingCodes: ['49'],
     currencies: ['EUR'],
     emoji: '🇩🇪',
     fullName: 'the Federal Republic of Germany',
@@ -1034,7 +1034,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DJ',
     alpha3: 'DJI',
-    callingCodes: ['+253'],
+    callingCodes: ['253'],
     currencies: ['DJF'],
     emoji: '🇩🇯',
     fullName: 'the Republic of Djibouti',
@@ -1055,7 +1055,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DK',
     alpha3: 'DNK',
-    callingCodes: ['+45'],
+    callingCodes: ['45'],
     currencies: ['DKK'],
     emoji: '🇩🇰',
     fullName: 'the Kingdom of Denmark',
@@ -1072,7 +1072,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DM',
     alpha3: 'DMA',
-    callingCodes: ['+1 767'],
+    callingCodes: ['1 767'],
     currencies: ['XCD'],
     emoji: '🇩🇲',
     fullName: 'the Commonwealth of Dominica',
@@ -1089,7 +1089,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DO',
     alpha3: 'DOM',
-    callingCodes: ['+1 809', '+1 829', '+1 849'],
+    callingCodes: ['1 809', '1 829', '1 849'],
     currencies: ['DOP'],
     emoji: '🇩🇴',
     fullName: 'the Dominican Republic',
@@ -1106,7 +1106,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'DZ',
     alpha3: 'DZA',
-    callingCodes: ['+213'],
+    callingCodes: ['213'],
     currencies: ['DZD'],
     emoji: '🇩🇿',
     fullName: "the People's Democratic Republic of Algeria",
@@ -1123,7 +1123,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'EC',
     alpha3: 'ECU',
-    callingCodes: ['+593'],
+    callingCodes: ['593'],
     currencies: ['USD'],
     emoji: '🇪🇨',
     fullName: 'the Republic of Ecuador',
@@ -1141,7 +1141,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'EE',
     alpha3: 'EST',
-    callingCodes: ['+372'],
+    callingCodes: ['372'],
     currencies: ['EUR'],
     emoji: '🇪🇪',
     fullName: 'the Republic of Estonia',
@@ -1158,7 +1158,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'EG',
     alpha3: 'EGY',
-    callingCodes: ['+20'],
+    callingCodes: ['20'],
     currencies: ['EGP'],
     emoji: '🇪🇬',
     fullName: 'the Arab Republic of Egypt',
@@ -1175,7 +1175,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'EH',
     alpha3: 'ESH',
-    callingCodes: ['+212'],
+    callingCodes: ['212'],
     currencies: ['MAD'],
     emoji: '🇪🇭',
     languages: [
@@ -1190,7 +1190,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ER',
     alpha3: 'ERI',
-    callingCodes: ['+291'],
+    callingCodes: ['291'],
     currencies: ['ERN'],
     emoji: '🇪🇷',
     fullName: 'the State of Eritrea',
@@ -1215,7 +1215,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ES',
     alpha3: 'ESP',
-    callingCodes: ['+34'],
+    callingCodes: ['34'],
     currencies: ['EUR'],
     emoji: '🇪🇸',
     fullName: 'the Kingdom of Spain',
@@ -1232,7 +1232,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ET',
     alpha3: 'ETH',
-    callingCodes: ['+251'],
+    callingCodes: ['251'],
     currencies: ['ETB'],
     emoji: '🇪🇹',
     fullName: 'the Federal Democratic Republic of Ethiopia',
@@ -1249,7 +1249,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FI',
     alpha3: 'FIN',
-    callingCodes: ['+358'],
+    callingCodes: ['358'],
     currencies: ['EUR'],
     emoji: '🇫🇮',
     fullName: 'the Republic of Finland',
@@ -1271,7 +1271,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FJ',
     alpha3: 'FJI',
-    callingCodes: ['+679'],
+    callingCodes: ['679'],
     currencies: ['FJD'],
     emoji: '🇫🇯',
     fullName: 'the Republic of Fiji',
@@ -1293,7 +1293,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FK',
     alpha3: 'FLK',
-    callingCodes: ['+500'],
+    callingCodes: ['500'],
     currencies: ['FKP'],
     emoji: '🇫🇰',
     languages: [
@@ -1308,7 +1308,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FM',
     alpha3: 'FSM',
-    callingCodes: ['+691'],
+    callingCodes: ['691'],
     currencies: ['USD'],
     emoji: '🇫🇲',
     fullName: 'the Federated States of Micronesia',
@@ -1326,7 +1326,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FO',
     alpha3: 'FRO',
-    callingCodes: ['+298'],
+    callingCodes: ['298'],
     currencies: ['DKK'],
     emoji: '🇫🇴',
     ioc: 'FAI',
@@ -1346,7 +1346,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'FR',
     alpha3: 'FRA',
-    callingCodes: ['+33'],
+    callingCodes: ['33'],
     currencies: ['EUR'],
     emoji: '🇫🇷',
     fullName: 'the French Republic',
@@ -1363,7 +1363,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GA',
     alpha3: 'GAB',
-    callingCodes: ['+241'],
+    callingCodes: ['241'],
     currencies: ['XAF'],
     emoji: '🇬🇦',
     fullName: 'the Gabonese Republic',
@@ -1380,7 +1380,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GB',
     alpha3: 'GBR',
-    callingCodes: ['+44'],
+    callingCodes: ['44'],
     currencies: ['GBP'],
     emoji: '🇬🇧',
     fullName: 'the United Kingdom of Great Britain and Northern Ireland',
@@ -1397,7 +1397,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GD',
     alpha3: 'GRD',
-    callingCodes: ['+473'],
+    callingCodes: ['473'],
     currencies: ['XCD'],
     emoji: '🇬🇩',
     ioc: 'GRN',
@@ -1414,7 +1414,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GE',
     alpha3: 'GEO',
-    callingCodes: ['+995'],
+    callingCodes: ['995'],
     currencies: ['GEL'],
     emoji: '🇬🇪',
     ioc: 'GEO',
@@ -1430,7 +1430,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GF',
     alpha3: 'GUF',
-    callingCodes: ['+594'],
+    callingCodes: ['594'],
     currencies: ['EUR'],
     emoji: '🇬🇫',
     languages: [
@@ -1445,7 +1445,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GG',
     alpha3: 'GGY',
-    callingCodes: ['+44'],
+    callingCodes: ['44'],
     currencies: ['GBP'],
     emoji: '🇬🇬',
     ioc: 'GCI',
@@ -1467,7 +1467,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GH',
     alpha3: 'GHA',
-    callingCodes: ['+233'],
+    callingCodes: ['233'],
     currencies: ['GHS'],
     emoji: '🇬🇭',
     fullName: 'the Republic of Ghana',
@@ -1484,7 +1484,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GI',
     alpha3: 'GIB',
-    callingCodes: ['+350'],
+    callingCodes: ['350'],
     currencies: ['GIP'],
     emoji: '🇬🇮',
     languages: [
@@ -1499,7 +1499,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GL',
     alpha3: 'GRL',
-    callingCodes: ['+299'],
+    callingCodes: ['299'],
     currencies: ['DKK'],
     emoji: '🇬🇱',
     languages: [
@@ -1518,7 +1518,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GM',
     alpha3: 'GMB',
-    callingCodes: ['+220'],
+    callingCodes: ['220'],
     currencies: ['GMD'],
     emoji: '🇬🇲',
     fullName: 'the Republic of the Gambia',
@@ -1535,7 +1535,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GN',
     alpha3: 'GIN',
-    callingCodes: ['+224'],
+    callingCodes: ['224'],
     currencies: ['GNF'],
     emoji: '🇬🇳',
     fullName: 'the Republic of Guinea',
@@ -1552,7 +1552,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GP',
     alpha3: 'GLP',
-    callingCodes: ['+590'],
+    callingCodes: ['590'],
     currencies: ['EUR'],
     emoji: '🇬🇵',
     languages: [
@@ -1568,7 +1568,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GQ',
     alpha3: 'GNQ',
-    callingCodes: ['+240'],
+    callingCodes: ['240'],
     currencies: ['XAF'],
     emoji: '🇬🇶',
     fullName: 'the Republic of Equatorial Guinea',
@@ -1595,7 +1595,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GR',
     alpha3: 'GRC',
-    callingCodes: ['+30'],
+    callingCodes: ['30'],
     currencies: ['EUR'],
     emoji: '🇬🇷',
     fullName: 'the Hellenic Republic',
@@ -1628,7 +1628,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GT',
     alpha3: 'GTM',
-    callingCodes: ['+502'],
+    callingCodes: ['502'],
     currencies: ['GTQ'],
     emoji: '🇬🇹',
     fullName: 'the Republic of Guatemala',
@@ -1645,7 +1645,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GU',
     alpha3: 'GUM',
-    callingCodes: ['+1 671'],
+    callingCodes: ['1 671'],
     currencies: ['USD'],
     emoji: '🇬🇺',
     ioc: 'GUM',
@@ -1661,7 +1661,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GW',
     alpha3: 'GNB',
-    callingCodes: ['+245'],
+    callingCodes: ['245'],
     currencies: ['XOF'],
     emoji: '🇬🇼',
     fullName: 'the Republic of Guinea-Bissau',
@@ -1678,7 +1678,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'GY',
     alpha3: 'GUY',
-    callingCodes: ['+592'],
+    callingCodes: ['592'],
     currencies: ['GYD'],
     emoji: '🇬🇾',
     fullName: 'the Co-operative Republic of Guyana',
@@ -1695,7 +1695,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'HK',
     alpha3: 'HKG',
-    callingCodes: ['+852'],
+    callingCodes: ['852'],
     currencies: ['HKD'],
     emoji: '🇭🇰',
     fullName: 'the Hong Kong Special Administrative Region of China',
@@ -1731,7 +1731,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'HN',
     alpha3: 'HND',
-    callingCodes: ['+504'],
+    callingCodes: ['504'],
     currencies: ['HNL'],
     emoji: '🇭🇳',
     fullName: 'the Republic of Honduras',
@@ -1749,7 +1749,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'HR',
     alpha3: 'HRV',
-    callingCodes: ['+385'],
+    callingCodes: ['385'],
     currencies: ['HRK'],
     emoji: '🇭🇷',
     fullName: 'the Republic of Croatia',
@@ -1766,7 +1766,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'HT',
     alpha3: 'HTI',
-    callingCodes: ['+509'],
+    callingCodes: ['509'],
     currencies: ['HTG', 'USD'],
     emoji: '🇭🇹',
     fullName: 'the Republic of Haiti',
@@ -1787,7 +1787,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'HU',
     alpha3: 'HUN',
-    callingCodes: ['+36'],
+    callingCodes: ['36'],
     currencies: ['HUF'],
     emoji: '🇭🇺',
     ioc: 'HUN',
@@ -1803,7 +1803,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ID',
     alpha3: 'IDN',
-    callingCodes: ['+62'],
+    callingCodes: ['62'],
     currencies: ['IDR'],
     emoji: '🇮🇩',
     fullName: 'the Republic of Indonesia',
@@ -1820,7 +1820,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IE',
     alpha3: 'IRL',
-    callingCodes: ['+353'],
+    callingCodes: ['353'],
     currencies: ['EUR'],
     emoji: '🇮🇪',
     ioc: 'IRL',
@@ -1840,7 +1840,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IL',
     alpha3: 'ISR',
-    callingCodes: ['+972'],
+    callingCodes: ['972'],
     currencies: ['ILS'],
     emoji: '🇮🇱',
     fullName: 'the State of Israel',
@@ -1861,7 +1861,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IM',
     alpha3: 'IMN',
-    callingCodes: ['+44'],
+    callingCodes: ['44'],
     currencies: ['GBP'],
     emoji: '🇮🇲',
     languages: [
@@ -1876,7 +1876,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IN',
     alpha3: 'IND',
-    callingCodes: ['+91'],
+    callingCodes: ['91'],
     currencies: ['INR'],
     emoji: '🇮🇳',
     fullName: 'the Republic of India',
@@ -1899,7 +1899,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IO',
     alpha3: 'IOT',
-    callingCodes: ['+246'],
+    callingCodes: ['246'],
     currencies: ['USD'],
     emoji: '🇮🇴',
     languages: [
@@ -1915,7 +1915,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IQ',
     alpha3: 'IRQ',
-    callingCodes: ['+964'],
+    callingCodes: ['964'],
     currencies: ['IQD'],
     emoji: '🇮🇶',
     fullName: 'the Republic of Iraq',
@@ -1936,7 +1936,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IR',
     alpha3: 'IRN',
-    callingCodes: ['+98'],
+    callingCodes: ['98'],
     currencies: ['IRR'],
     emoji: '🇮🇷',
     fullName: 'the Islamic Republic of Iran',
@@ -1953,7 +1953,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IS',
     alpha3: 'ISL',
-    callingCodes: ['+354'],
+    callingCodes: ['354'],
     currencies: ['ISK'],
     emoji: '🇮🇸',
     fullName: 'the Republic of Iceland',
@@ -1970,7 +1970,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'IT',
     alpha3: 'ITA',
-    callingCodes: ['+39'],
+    callingCodes: ['39'],
     currencies: ['EUR'],
     emoji: '🇮🇹',
     fullName: 'the Republic of Italy',
@@ -1987,7 +1987,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'JE',
     alpha3: 'JEY',
-    callingCodes: ['+44'],
+    callingCodes: ['44'],
     currencies: ['GBP'],
     emoji: '🇯🇪',
     ioc: 'JCI',
@@ -2007,7 +2007,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'JM',
     alpha3: 'JAM',
-    callingCodes: ['+1 876'],
+    callingCodes: ['1 876'],
     currencies: ['JMD'],
     emoji: '🇯🇲',
     ioc: 'JAM',
@@ -2023,7 +2023,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'JO',
     alpha3: 'JOR',
-    callingCodes: ['+962'],
+    callingCodes: ['962'],
     currencies: ['JOD'],
     emoji: '🇯🇴',
     fullName: 'the Hashemite Kingdom of Jordan',
@@ -2040,7 +2040,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'JP',
     alpha3: 'JPN',
-    callingCodes: ['+81'],
+    callingCodes: ['81'],
     currencies: ['JPY'],
     emoji: '🇯🇵',
     ioc: 'JPN',
@@ -2056,7 +2056,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KE',
     alpha3: 'KEN',
-    callingCodes: ['+254'],
+    callingCodes: ['254'],
     currencies: ['KES'],
     emoji: '🇰🇪',
     fullName: 'the Republic of Kenya',
@@ -2077,7 +2077,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KG',
     alpha3: 'KGZ',
-    callingCodes: ['+996'],
+    callingCodes: ['996'],
     currencies: ['KGS'],
     emoji: '🇰🇬',
     fullName: 'the Kyrgyz Republic',
@@ -2098,7 +2098,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KH',
     alpha3: 'KHM',
-    callingCodes: ['+855'],
+    callingCodes: ['855'],
     currencies: ['KHR'],
     emoji: '🇰🇭',
     fullName: 'the Kingdom of Cambodia',
@@ -2115,7 +2115,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KI',
     alpha3: 'KIR',
-    callingCodes: ['+686'],
+    callingCodes: ['686'],
     currencies: ['AUD'],
     emoji: '🇰🇮',
     fullName: 'the Republic of Kiribati',
@@ -2138,7 +2138,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KM',
     alpha3: 'COM',
-    callingCodes: ['+269'],
+    callingCodes: ['269'],
     currencies: ['KMF'],
     emoji: '🇰🇲',
     fullName: 'the Union of the Comoros',
@@ -2164,7 +2164,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KN',
     alpha3: 'KNA',
-    callingCodes: ['+1 869'],
+    callingCodes: ['1 869'],
     currencies: ['XCD'],
     emoji: '🇰🇳',
     ioc: 'SKN',
@@ -2181,7 +2181,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KP',
     alpha3: 'PRK',
-    callingCodes: ['+850'],
+    callingCodes: ['850'],
     currencies: ['KPW'],
     emoji: '🇰🇵',
     fullName: "the Democratic People's Republic of Korea",
@@ -2198,7 +2198,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KR',
     alpha3: 'KOR',
-    callingCodes: ['+82'],
+    callingCodes: ['82'],
     currencies: ['KRW'],
     emoji: '🇰🇷',
     fullName: 'the Republic of Korea',
@@ -2215,7 +2215,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KW',
     alpha3: 'KWT',
-    callingCodes: ['+965'],
+    callingCodes: ['965'],
     currencies: ['KWD'],
     emoji: '🇰🇼',
     fullName: 'the State of Kuwait',
@@ -2232,7 +2232,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KY',
     alpha3: 'CYM',
-    callingCodes: ['+1 345'],
+    callingCodes: ['1 345'],
     currencies: ['KYD'],
     emoji: '🇰🇾',
     ioc: 'CAY',
@@ -2249,7 +2249,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'KZ',
     alpha3: 'KAZ',
-    callingCodes: ['+7', '+7 6', '+7 7'],
+    callingCodes: ['7', '7 6', '7 7'],
     currencies: ['KZT'],
     emoji: '🇰🇿',
     fullName: 'the Republic of Kazakhstan',
@@ -2270,7 +2270,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LA',
     alpha3: 'LAO',
-    callingCodes: ['+856'],
+    callingCodes: ['856'],
     currencies: ['LAK'],
     emoji: '🇱🇦',
     fullName: "the Lao People's Democratic Republic",
@@ -2287,7 +2287,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LB',
     alpha3: 'LBN',
-    callingCodes: ['+961'],
+    callingCodes: ['961'],
     currencies: ['LBP'],
     emoji: '🇱🇧',
     fullName: 'the Lebanese Republic',
@@ -2304,7 +2304,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LC',
     alpha3: 'LCA',
-    callingCodes: ['+1 758'],
+    callingCodes: ['1 758'],
     currencies: ['XCD'],
     emoji: '🇱🇨',
     ioc: 'LCA',
@@ -2320,7 +2320,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LI',
     alpha3: 'LIE',
-    callingCodes: ['+423'],
+    callingCodes: ['423'],
     currencies: ['CHF'],
     emoji: '🇱🇮',
     fullName: 'the Principality of Liechtenstein',
@@ -2337,7 +2337,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LK',
     alpha3: 'LKA',
-    callingCodes: ['+94'],
+    callingCodes: ['94'],
     currencies: ['LKR'],
     emoji: '🇱🇰',
     fullName: 'the Democratic Socialist Republic of Sri Lanka',
@@ -2362,7 +2362,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LR',
     alpha3: 'LBR',
-    callingCodes: ['+231'],
+    callingCodes: ['231'],
     currencies: ['LRD'],
     emoji: '🇱🇷',
     fullName: 'the Republic of Liberia',
@@ -2379,7 +2379,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LS',
     alpha3: 'LSO',
-    callingCodes: ['+266'],
+    callingCodes: ['266'],
     currencies: ['LSL', 'ZAR'],
     emoji: '🇱🇸',
     fullName: 'the Kingdom of Lesotho',
@@ -2400,7 +2400,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LT',
     alpha3: 'LTU',
-    callingCodes: ['+370'],
+    callingCodes: ['370'],
     currencies: ['EUR'],
     emoji: '🇱🇹',
     fullName: 'the Republic of Lithuania',
@@ -2417,7 +2417,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LU',
     alpha3: 'LUX',
-    callingCodes: ['+352'],
+    callingCodes: ['352'],
     currencies: ['EUR'],
     emoji: '🇱🇺',
     fullName: 'the Grand Duchy of Luxembourg',
@@ -2442,7 +2442,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LV',
     alpha3: 'LVA',
-    callingCodes: ['+371'],
+    callingCodes: ['371'],
     currencies: ['EUR'],
     emoji: '🇱🇻',
     fullName: 'the Republic of Latvia',
@@ -2459,7 +2459,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'LY',
     alpha3: 'LBY',
-    callingCodes: ['+218'],
+    callingCodes: ['218'],
     currencies: ['LYD'],
     emoji: '🇱🇾',
     fullName: 'the State of Libya',
@@ -2476,7 +2476,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MA',
     alpha3: 'MAR',
-    callingCodes: ['+212'],
+    callingCodes: ['212'],
     currencies: ['MAD'],
     emoji: '🇲🇦',
     fullName: 'the Kingdom of Morocco',
@@ -2493,7 +2493,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MC',
     alpha3: 'MCO',
-    callingCodes: ['+377'],
+    callingCodes: ['377'],
     currencies: ['EUR'],
     emoji: '🇲🇨',
     fullName: 'the Principality of Monaco',
@@ -2510,7 +2510,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MD',
     alpha3: 'MDA',
-    callingCodes: ['+373'],
+    callingCodes: ['373'],
     currencies: ['MDL'],
     emoji: '🇲🇩',
     fullName: 'the Republic of Moldova',
@@ -2527,7 +2527,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ME',
     alpha3: 'MNE',
-    callingCodes: ['+382'],
+    callingCodes: ['382'],
     currencies: ['EUR'],
     emoji: '🇲🇪',
     ioc: 'MNE',
@@ -2543,7 +2543,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MF',
     alpha3: 'MAF',
-    callingCodes: ['+590'],
+    callingCodes: ['590'],
     currencies: ['EUR'],
     emoji: '🇲🇫',
     languages: [
@@ -2558,7 +2558,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MG',
     alpha3: 'MDG',
-    callingCodes: ['+261'],
+    callingCodes: ['261'],
     currencies: ['MGA'],
     emoji: '🇲🇬',
     fullName: 'the Republic of Madagascar',
@@ -2583,7 +2583,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MH',
     alpha3: 'MHL',
-    callingCodes: ['+692'],
+    callingCodes: ['692'],
     currencies: ['USD'],
     emoji: '🇲🇭',
     fullName: 'the Republic of the Marshall Islands',
@@ -2605,7 +2605,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MK',
     alpha3: 'MKD',
-    callingCodes: ['+389'],
+    callingCodes: ['389'],
     currencies: ['MKD'],
     emoji: '🇲🇰',
     fullName: 'the Republic of North Macedonia',
@@ -2622,7 +2622,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ML',
     alpha3: 'MLI',
-    callingCodes: ['+223'],
+    callingCodes: ['223'],
     currencies: ['XOF'],
     emoji: '🇲🇱',
     fullName: 'the Republic of Mali',
@@ -2639,7 +2639,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MM',
     alpha3: 'MMR',
-    callingCodes: ['+95'],
+    callingCodes: ['95'],
     currencies: ['MMK'],
     emoji: '🇲🇲',
     fullName: 'the Republic of the Union of Myanmar',
@@ -2656,7 +2656,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MN',
     alpha3: 'MNG',
-    callingCodes: ['+976'],
+    callingCodes: ['976'],
     currencies: ['MNT'],
     emoji: '🇲🇳',
     ioc: 'MGL',
@@ -2672,7 +2672,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MO',
     alpha3: 'MAC',
-    callingCodes: ['+853'],
+    callingCodes: ['853'],
     currencies: ['MOP'],
     emoji: '🇲🇴',
     fullName: 'Macao Special Administrative Region of China',
@@ -2693,7 +2693,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MP',
     alpha3: 'MNP',
-    callingCodes: ['+1 670'],
+    callingCodes: ['1 670'],
     currencies: ['USD'],
     emoji: '🇲🇵',
     fullName: 'the Commonwealth of the Northern Mariana Islands',
@@ -2710,7 +2710,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MQ',
     alpha3: 'MTQ',
-    callingCodes: ['+596'],
+    callingCodes: ['596'],
     currencies: ['EUR'],
     emoji: '🇲🇶',
     languages: [
@@ -2725,7 +2725,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MR',
     alpha3: 'MRT',
-    callingCodes: ['+222'],
+    callingCodes: ['222'],
     currencies: ['MRO'],
     emoji: '🇲🇷',
     fullName: 'the Islamic Republic of Mauritania',
@@ -2742,7 +2742,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MS',
     alpha3: 'MSR',
-    callingCodes: ['+1 664'],
+    callingCodes: ['1 664'],
     currencies: ['XCD'],
     emoji: '🇲🇸',
     languages: [
@@ -2757,7 +2757,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MT',
     alpha3: 'MLT',
-    callingCodes: ['+356'],
+    callingCodes: ['356'],
     currencies: ['EUR'],
     emoji: '🇲🇹',
     fullName: 'the Republic of Malta',
@@ -2778,7 +2778,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MU',
     alpha3: 'MUS',
-    callingCodes: ['+230'],
+    callingCodes: ['230'],
     currencies: ['MUR'],
     emoji: '🇲🇺',
     fullName: 'the Republic of Mauritius',
@@ -2796,7 +2796,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MV',
     alpha3: 'MDV',
-    callingCodes: ['+960'],
+    callingCodes: ['960'],
     currencies: ['MVR'],
     emoji: '🇲🇻',
     fullName: 'the Republic of Maldives',
@@ -2813,7 +2813,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MW',
     alpha3: 'MWI',
-    callingCodes: ['+265'],
+    callingCodes: ['265'],
     currencies: ['MWK'],
     emoji: '🇲🇼',
     fullName: 'the Republic of Malawi',
@@ -2834,7 +2834,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MX',
     alpha3: 'MEX',
-    callingCodes: ['+52'],
+    callingCodes: ['52'],
     currencies: ['MXN', 'MXV'],
     emoji: '🇲🇽',
     fullName: 'the United Mexican States',
@@ -2851,7 +2851,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MY',
     alpha3: 'MYS',
-    callingCodes: ['+60'],
+    callingCodes: ['60'],
     currencies: ['MYR'],
     emoji: '🇲🇾',
     ioc: 'MAS',
@@ -2868,7 +2868,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'MZ',
     alpha3: 'MOZ',
-    callingCodes: ['+258'],
+    callingCodes: ['258'],
     currencies: ['MZN'],
     emoji: '🇲🇿',
     fullName: 'the Republic of Mozambique',
@@ -2885,7 +2885,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NA',
     alpha3: 'NAM',
-    callingCodes: ['+264'],
+    callingCodes: ['264'],
     currencies: ['NAD', 'ZAR'],
     emoji: '🇳🇦',
     fullName: 'the Republic of Namibia',
@@ -2902,7 +2902,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NC',
     alpha3: 'NCL',
-    callingCodes: ['+687'],
+    callingCodes: ['687'],
     currencies: ['XPF'],
     emoji: '🇳🇨',
     languages: [
@@ -2918,7 +2918,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NE',
     alpha3: 'NER',
-    callingCodes: ['+227'],
+    callingCodes: ['227'],
     currencies: ['XOF'],
     emoji: '🇳🇪',
     fullName: 'the Republic of the Niger',
@@ -2935,7 +2935,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NF',
     alpha3: 'NFK',
-    callingCodes: ['+672'],
+    callingCodes: ['672'],
     currencies: ['AUD'],
     emoji: '🇳🇫',
     languages: [
@@ -2950,7 +2950,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NG',
     alpha3: 'NGA',
-    callingCodes: ['+234'],
+    callingCodes: ['234'],
     currencies: ['NGN'],
     emoji: '🇳🇬',
     fullName: 'the Federal Republic of Nigeria',
@@ -2967,7 +2967,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NI',
     alpha3: 'NIC',
-    callingCodes: ['+505'],
+    callingCodes: ['505'],
     currencies: ['NIO'],
     emoji: '🇳🇮',
     fullName: 'the Republic of Nicaragua',
@@ -2984,7 +2984,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NL',
     alpha3: 'NLD',
-    callingCodes: ['+31'],
+    callingCodes: ['31'],
     currencies: ['EUR'],
     emoji: '🇳🇱',
     fullName: 'the Kingdom of the Netherlands',
@@ -3001,7 +3001,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NO',
     alpha3: 'NOR',
-    callingCodes: ['+47'],
+    callingCodes: ['47'],
     currencies: ['NOK'],
     emoji: '🇳🇴',
     fullName: 'the Kingdom of Norway',
@@ -3022,7 +3022,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NP',
     alpha3: 'NPL',
-    callingCodes: ['+977'],
+    callingCodes: ['977'],
     currencies: ['NPR'],
     emoji: '🇳🇵',
     fullName: 'the Federal Democratic Republic of Nepal',
@@ -3039,7 +3039,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NR',
     alpha3: 'NRU',
-    callingCodes: ['+674'],
+    callingCodes: ['674'],
     currencies: ['AUD'],
     emoji: '🇳🇷',
     fullName: 'the Republic of Nauru',
@@ -3060,7 +3060,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NU',
     alpha3: 'NIU',
-    callingCodes: ['+683'],
+    callingCodes: ['683'],
     currencies: ['NZD'],
     emoji: '🇳🇺',
     languages: [
@@ -3079,7 +3079,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'NZ',
     alpha3: 'NZL',
-    callingCodes: ['+64'],
+    callingCodes: ['64'],
     currencies: ['NZD'],
     emoji: '🇳🇿',
     ioc: 'NZL',
@@ -3101,7 +3101,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'OM',
     alpha3: 'OMN',
-    callingCodes: ['+968'],
+    callingCodes: ['968'],
     currencies: ['OMR'],
     emoji: '🇴🇲',
     fullName: 'the Sultanate of Oman',
@@ -3119,7 +3119,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PA',
     alpha3: 'PAN',
-    callingCodes: ['+507'],
+    callingCodes: ['507'],
     currencies: ['PAB', 'USD'],
     emoji: '🇵🇦',
     fullName: 'the Republic of Panama',
@@ -3136,7 +3136,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PE',
     alpha3: 'PER',
-    callingCodes: ['+51'],
+    callingCodes: ['51'],
     currencies: ['PEN'],
     emoji: '🇵🇪',
     fullName: 'the Republic of Peru',
@@ -3161,7 +3161,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PF',
     alpha3: 'PYF',
-    callingCodes: ['+689'],
+    callingCodes: ['689'],
     currencies: ['XPF'],
     emoji: '🇵🇫',
     languages: [
@@ -3178,7 +3178,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PG',
     alpha3: 'PNG',
-    callingCodes: ['+675'],
+    callingCodes: ['675'],
     currencies: ['PGK'],
     emoji: '🇵🇬',
     fullName: 'the Independent State of Papua New Guinea',
@@ -3205,7 +3205,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PH',
     alpha3: 'PHL',
-    callingCodes: ['+63'],
+    callingCodes: ['63'],
     currencies: ['PHP'],
     emoji: '🇵🇭',
     fullName: 'the Republic of the Philippines',
@@ -3226,7 +3226,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PK',
     alpha3: 'PAK',
-    callingCodes: ['+92'],
+    callingCodes: ['92'],
     currencies: ['PKR'],
     emoji: '🇵🇰',
     fullName: 'the Islamic Republic of Pakistan',
@@ -3247,7 +3247,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PL',
     alpha3: 'POL',
-    callingCodes: ['+48'],
+    callingCodes: ['48'],
     currencies: ['PLN'],
     emoji: '🇵🇱',
     fullName: 'the Republic of Poland',
@@ -3264,7 +3264,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PM',
     alpha3: 'SPM',
-    callingCodes: ['+508'],
+    callingCodes: ['508'],
     currencies: ['EUR'],
     emoji: '🇵🇲',
     languages: [
@@ -3280,7 +3280,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PN',
     alpha3: 'PCN',
-    callingCodes: ['+872'],
+    callingCodes: ['872'],
     currencies: ['NZD'],
     emoji: '🇵🇳',
     languages: [
@@ -3296,7 +3296,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PR',
     alpha3: 'PRI',
-    callingCodes: ['+1 787', '+1 939'],
+    callingCodes: ['1 787', '1 939'],
     currencies: ['USD'],
     emoji: '🇵🇷',
     ioc: 'PUR',
@@ -3316,7 +3316,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PS',
     alpha3: 'PSE',
-    callingCodes: ['+970'],
+    callingCodes: ['970'],
     currencies: ['JOD', 'EGP', 'ILS'],
     emoji: '🇵🇸',
     fullName: 'the State of Palestine',
@@ -3333,7 +3333,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PT',
     alpha3: 'PRT',
-    callingCodes: ['+351'],
+    callingCodes: ['351'],
     currencies: ['EUR'],
     emoji: '🇵🇹',
     fullName: 'the Portuguese Republic',
@@ -3350,7 +3350,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PW',
     alpha3: 'PLW',
-    callingCodes: ['+680'],
+    callingCodes: ['680'],
     currencies: ['USD'],
     emoji: '🇵🇼',
     fullName: 'the Republic of Palau',
@@ -3373,7 +3373,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'PY',
     alpha3: 'PRY',
-    callingCodes: ['+595'],
+    callingCodes: ['595'],
     currencies: ['PYG'],
     emoji: '🇵🇾',
     fullName: 'the Republic of Paraguay',
@@ -3394,7 +3394,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'QA',
     alpha3: 'QAT',
-    callingCodes: ['+974'],
+    callingCodes: ['974'],
     currencies: ['QAR'],
     emoji: '🇶🇦',
     fullName: 'the State of Qatar',
@@ -3411,7 +3411,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'RE',
     alpha3: 'REU',
-    callingCodes: ['+262'],
+    callingCodes: ['262'],
     currencies: ['EUR'],
     emoji: '🇷🇪',
     languages: [
@@ -3426,7 +3426,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'RO',
     alpha3: 'ROU',
-    callingCodes: ['+40'],
+    callingCodes: ['40'],
     currencies: ['RON'],
     emoji: '🇷🇴',
     ioc: 'ROU',
@@ -3442,7 +3442,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'RS',
     alpha3: 'SRB',
-    callingCodes: ['+381'],
+    callingCodes: ['381'],
     currencies: ['RSD'],
     emoji: '🇷🇸',
     fullName: 'the Republic of Serbia',
@@ -3459,7 +3459,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'RU',
     alpha3: 'RUS',
-    callingCodes: ['+7', '+7 3', '+7 4', '+7 8'],
+    callingCodes: ['7', '7 3', '7 4', '7 8'],
     currencies: ['RUB'],
     emoji: '🇷🇺',
     fullName: 'the Russian Federation',
@@ -3477,7 +3477,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'RW',
     alpha3: 'RWA',
-    callingCodes: ['+250'],
+    callingCodes: ['250'],
     currencies: ['RWF'],
     emoji: '🇷🇼',
     fullName: 'the Republic of Rwanda',
@@ -3502,7 +3502,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SA',
     alpha3: 'SAU',
-    callingCodes: ['+966'],
+    callingCodes: ['966'],
     currencies: ['SAR'],
     emoji: '🇸🇦',
     fullName: 'the Kingdom of Saudi Arabia',
@@ -3519,7 +3519,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SB',
     alpha3: 'SLB',
-    callingCodes: ['+677'],
+    callingCodes: ['677'],
     currencies: ['SBD'],
     emoji: '🇸🇧',
     ioc: 'SOL',
@@ -3537,7 +3537,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SC',
     alpha3: 'SYC',
-    callingCodes: ['+248'],
+    callingCodes: ['248'],
     currencies: ['SCR'],
     emoji: '🇸🇨',
     fullName: 'the Republic of Seychelles',
@@ -3564,7 +3564,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SD',
     alpha3: 'SDN',
-    callingCodes: ['+249'],
+    callingCodes: ['249'],
     currencies: ['SDG'],
     emoji: '🇸🇩',
     fullName: 'the Republic of the Sudan',
@@ -3581,7 +3581,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SE',
     alpha3: 'SWE',
-    callingCodes: ['+46'],
+    callingCodes: ['46'],
     currencies: ['SEK'],
     emoji: '🇸🇪',
     fullName: 'the Kingdom of Sweden',
@@ -3598,7 +3598,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SG',
     alpha3: 'SGP',
-    callingCodes: ['+65'],
+    callingCodes: ['65'],
     currencies: ['SGD'],
     emoji: '🇸🇬',
     fullName: 'the Republic of Singapore',
@@ -3627,7 +3627,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SH',
     alpha3: 'SHN',
-    callingCodes: ['+290'],
+    callingCodes: ['290'],
     currencies: ['SHP'],
     emoji: '🇸🇭',
     languages: [
@@ -3644,7 +3644,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SI',
     alpha3: 'SVN',
-    callingCodes: ['+386'],
+    callingCodes: ['386'],
     currencies: ['EUR'],
     emoji: '🇸🇮',
     fullName: 'the Republic of Slovenia',
@@ -3661,7 +3661,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SJ',
     alpha3: 'SJM',
-    callingCodes: ['+47'],
+    callingCodes: ['47'],
     currencies: ['NOK'],
     emoji: '🇸🇯',
     languages: [
@@ -3681,7 +3681,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SK',
     alpha3: 'SVK',
-    callingCodes: ['+421'],
+    callingCodes: ['421'],
     currencies: ['EUR'],
     emoji: '🇸🇰',
     fullName: 'the Slovak Republic',
@@ -3698,7 +3698,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SL',
     alpha3: 'SLE',
-    callingCodes: ['+232'],
+    callingCodes: ['232'],
     currencies: ['SLL'],
     emoji: '🇸🇱',
     fullName: 'the Republic of Sierra Leone',
@@ -3715,7 +3715,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SM',
     alpha3: 'SMR',
-    callingCodes: ['+378'],
+    callingCodes: ['378'],
     currencies: ['EUR'],
     emoji: '🇸🇲',
     fullName: 'the Republic of San Marino',
@@ -3732,7 +3732,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SN',
     alpha3: 'SEN',
-    callingCodes: ['+221'],
+    callingCodes: ['221'],
     currencies: ['XOF'],
     emoji: '🇸🇳',
     fullName: 'the Republic of Senegal',
@@ -3749,7 +3749,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SO',
     alpha3: 'SOM',
-    callingCodes: ['+252'],
+    callingCodes: ['252'],
     currencies: ['SOS'],
     emoji: '🇸🇴',
     fullName: 'the Federal Republic of Somalia',
@@ -3770,7 +3770,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SR',
     alpha3: 'SUR',
-    callingCodes: ['+597'],
+    callingCodes: ['597'],
     currencies: ['SRD'],
     emoji: '🇸🇷',
     fullName: 'the Republic of Suriname',
@@ -3787,7 +3787,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SS',
     alpha3: 'SSD',
-    callingCodes: ['+211'],
+    callingCodes: ['211'],
     currencies: ['SSP'],
     emoji: '🇸🇸',
     fullName: 'the Republic of South Sudan',
@@ -3804,7 +3804,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ST',
     alpha3: 'STP',
-    callingCodes: ['+239'],
+    callingCodes: ['239'],
     currencies: ['STD'],
     emoji: '🇸🇹',
     fullName: 'the Democratic Republic of Sao Tome and Principe',
@@ -3822,7 +3822,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SV',
     alpha3: 'SLV',
-    callingCodes: ['+503'],
+    callingCodes: ['503'],
     currencies: ['USD'],
     emoji: '🇸🇻',
     fullName: 'the Republic of El Salvador',
@@ -3839,7 +3839,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SX',
     alpha3: 'SXM',
-    callingCodes: ['+1 721'],
+    callingCodes: ['1 721'],
     currencies: ['ANG'],
     emoji: '🇸🇽',
     languages: [
@@ -3858,7 +3858,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SY',
     alpha3: 'SYR',
-    callingCodes: ['+963'],
+    callingCodes: ['963'],
     currencies: ['SYP'],
     emoji: '🇸🇾',
     fullName: 'the Syrian Arab Republic',
@@ -3875,7 +3875,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'SZ',
     alpha3: 'SWZ',
-    callingCodes: ['+268'],
+    callingCodes: ['268'],
     currencies: ['SZL'],
     emoji: '🇸🇿',
     fullName: 'the Kingdom of Eswatini',
@@ -3896,7 +3896,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TC',
     alpha3: 'TCA',
-    callingCodes: ['+1 649'],
+    callingCodes: ['1 649'],
     currencies: ['USD'],
     emoji: '🇹🇨',
     languages: [
@@ -3912,7 +3912,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TD',
     alpha3: 'TCD',
-    callingCodes: ['+235'],
+    callingCodes: ['235'],
     currencies: ['XAF'],
     emoji: '🇹🇩',
     fullName: 'the Republic of Chad',
@@ -3949,7 +3949,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TG',
     alpha3: 'TGO',
-    callingCodes: ['+228'],
+    callingCodes: ['228'],
     currencies: ['XOF'],
     emoji: '🇹🇬',
     fullName: 'the Togolese Republic',
@@ -3966,7 +3966,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TH',
     alpha3: 'THA',
-    callingCodes: ['+66'],
+    callingCodes: ['66'],
     currencies: ['THB'],
     emoji: '🇹🇭',
     fullName: 'the Kingdom of Thailand',
@@ -3983,7 +3983,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TJ',
     alpha3: 'TJK',
-    callingCodes: ['+992'],
+    callingCodes: ['992'],
     currencies: ['TJS'],
     emoji: '🇹🇯',
     fullName: 'the Republic of Tajikistan',
@@ -4000,7 +4000,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TK',
     alpha3: 'TKL',
-    callingCodes: ['+690'],
+    callingCodes: ['690'],
     currencies: ['NZD'],
     emoji: '🇹🇰',
     languages: [
@@ -4019,7 +4019,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TL',
     alpha3: 'TLS',
-    callingCodes: ['+670'],
+    callingCodes: ['670'],
     currencies: ['USD'],
     emoji: '🇹🇱',
     fullName: 'the Democratic Republic of Timor-Leste',
@@ -4041,7 +4041,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TM',
     alpha3: 'TKM',
-    callingCodes: ['+993'],
+    callingCodes: ['993'],
     currencies: ['TMT'],
     emoji: '🇹🇲',
     ioc: 'TKM',
@@ -4057,7 +4057,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TN',
     alpha3: 'TUN',
-    callingCodes: ['+216'],
+    callingCodes: ['216'],
     currencies: ['TND'],
     emoji: '🇹🇳',
     fullName: 'the Republic of Tunisia',
@@ -4074,7 +4074,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TO',
     alpha3: 'TON',
-    callingCodes: ['+676'],
+    callingCodes: ['676'],
     currencies: ['TOP'],
     emoji: '🇹🇴',
     fullName: 'the Kingdom of Tonga',
@@ -4096,7 +4096,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TR',
     alpha3: 'TUR',
-    callingCodes: ['+90'],
+    callingCodes: ['90'],
     currencies: ['TRY'],
     emoji: '🇹🇷',
     fullName: 'the Republic of Turkey',
@@ -4113,7 +4113,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TT',
     alpha3: 'TTO',
-    callingCodes: ['+1 868'],
+    callingCodes: ['1 868'],
     currencies: ['TTD'],
     emoji: '🇹🇹',
     fullName: 'the Republic of Trinidad and Tobago',
@@ -4131,7 +4131,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TV',
     alpha3: 'TUV',
-    callingCodes: ['+688'],
+    callingCodes: ['688'],
     currencies: ['AUD'],
     emoji: '🇹🇻',
     ioc: 'TUV',
@@ -4152,7 +4152,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TW',
     alpha3: 'TWN',
-    callingCodes: ['+886'],
+    callingCodes: ['886'],
     currencies: ['TWD'],
     emoji: '🇹🇼',
     ioc: 'TPE',
@@ -4169,7 +4169,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'TZ',
     alpha3: 'TZA',
-    callingCodes: ['+255'],
+    callingCodes: ['255'],
     currencies: ['TZS'],
     emoji: '🇹🇿',
     fullName: 'the United Republic of Tanzania',
@@ -4190,7 +4190,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'UA',
     alpha3: 'UKR',
-    callingCodes: ['+380'],
+    callingCodes: ['380'],
     currencies: ['UAH'],
     emoji: '🇺🇦',
     ioc: 'UKR',
@@ -4206,7 +4206,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'UG',
     alpha3: 'UGA',
-    callingCodes: ['+256'],
+    callingCodes: ['256'],
     currencies: ['UGX'],
     emoji: '🇺🇬',
     fullName: 'the Republic of Uganda',
@@ -4223,7 +4223,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'UM',
     alpha3: 'UMI',
-    callingCodes: ['+1'],
+    callingCodes: ['1'],
     currencies: ['USD'],
     emoji: '🇺🇲',
     languages: [
@@ -4240,7 +4240,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'US',
     alpha3: 'USA',
-    callingCodes: ['+1'],
+    callingCodes: ['1'],
     currencies: ['USD'],
     emoji: '🇺🇸',
     fullName: 'the United States of America',
@@ -4257,7 +4257,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'UY',
     alpha3: 'URY',
-    callingCodes: ['+598'],
+    callingCodes: ['598'],
     currencies: ['UYU', 'UYI'],
     emoji: '🇺🇾',
     fullName: 'the Eastern Republic of Uruguay',
@@ -4274,7 +4274,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'UZ',
     alpha3: 'UZB',
-    callingCodes: ['+998'],
+    callingCodes: ['998'],
     currencies: ['UZS'],
     emoji: '🇺🇿',
     fullName: 'the Republic of Uzbekistan',
@@ -4291,7 +4291,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VA',
     alpha3: 'VAT',
-    callingCodes: ['+379', '+39'],
+    callingCodes: ['379', '39'],
     currencies: ['EUR'],
     emoji: '🇻🇦',
     languages: [
@@ -4310,7 +4310,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VC',
     alpha3: 'VCT',
-    callingCodes: ['+1 784'],
+    callingCodes: ['1 784'],
     currencies: ['XCD'],
     emoji: '🇻🇨',
     ioc: 'VIN',
@@ -4328,7 +4328,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VE',
     alpha3: 'VEN',
-    callingCodes: ['+58'],
+    callingCodes: ['58'],
     currencies: ['VEF'],
     emoji: '🇻🇪',
     fullName: 'the Bolivarian Republic of Venezuela',
@@ -4346,7 +4346,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VG',
     alpha3: 'VGB',
-    callingCodes: ['+1 284'],
+    callingCodes: ['1 284'],
     currencies: ['USD'],
     emoji: '🇻🇬',
     fullName: 'British Virgin Islands (the)',
@@ -4364,7 +4364,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VI',
     alpha3: 'VIR',
-    callingCodes: ['+1 340'],
+    callingCodes: ['1 340'],
     currencies: ['USD'],
     emoji: '🇻🇮',
     fullName: 'the Virgin Islands of the United States',
@@ -4382,7 +4382,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VN',
     alpha3: 'VNM',
-    callingCodes: ['+84'],
+    callingCodes: ['84'],
     currencies: ['VND'],
     emoji: '🇻🇳',
     fullName: 'the Socialist Republic of Viet Nam',
@@ -4399,7 +4399,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'VU',
     alpha3: 'VUT',
-    callingCodes: ['+678'],
+    callingCodes: ['678'],
     currencies: ['VUV'],
     emoji: '🇻🇺',
     fullName: 'the Republic of Vanuatu',
@@ -4425,7 +4425,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'WF',
     alpha3: 'WLF',
-    callingCodes: ['+681'],
+    callingCodes: ['681'],
     currencies: ['XPF'],
     emoji: '🇼🇫',
     fullName: 'Wallis and Futuna Islands',
@@ -4442,7 +4442,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'WS',
     alpha3: 'WSM',
-    callingCodes: ['+685'],
+    callingCodes: ['685'],
     currencies: ['WST'],
     emoji: '🇼🇸',
     fullName: 'the Independent State of Samoa',
@@ -4464,7 +4464,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'YE',
     alpha3: 'YEM',
-    callingCodes: ['+967'],
+    callingCodes: ['967'],
     currencies: ['YER'],
     emoji: '🇾🇪',
     fullName: 'the Republic of Yemen',
@@ -4482,7 +4482,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'YT',
     alpha3: 'MYT',
-    callingCodes: ['+262'],
+    callingCodes: ['262'],
     currencies: ['EUR'],
     emoji: '🇾🇹',
     languages: [
@@ -4497,7 +4497,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ZA',
     alpha3: 'ZAF',
-    callingCodes: ['+27'],
+    callingCodes: ['27'],
     currencies: ['ZAR'],
     emoji: '🇿🇦',
     fullName: 'the Republic of South Africa',
@@ -4555,7 +4555,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ZM',
     alpha3: 'ZMB',
-    callingCodes: ['+260'],
+    callingCodes: ['260'],
     currencies: ['ZMW'],
     emoji: '🇿🇲',
     fullName: 'the Republic of Zambia',
@@ -4572,7 +4572,7 @@ export const countries: ICountry[] = [
   {
     alpha2: 'ZW',
     alpha3: 'ZWE',
-    callingCodes: ['+263'],
+    callingCodes: ['263'],
     currencies: ['USD', 'ZAR', 'BWP', 'GBP', 'EUR'],
     emoji: '🇿🇼',
     fullName: 'the Republic of Zimbabwe',
